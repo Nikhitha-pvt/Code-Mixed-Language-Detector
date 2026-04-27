@@ -41,10 +41,3 @@ templates/
     index.html
 ```
 
-## 🤝 Contributing
-
-Pull requests are welcome!
-
-## 📜 License
-
-MIT
