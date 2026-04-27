@@ -1,0 +1,12364 @@
+[
+  {
+    "id": 1,
+    "sentence": "nenu venum update irukku avuthundi kal 😂",
+    "tokens": [
+      "nenu",
+      "venum",
+      "update",
+      "irukku",
+      "avuthundi",
+      "kal",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 2,
+    "sentence": "kal update task work fix idhu cheyyi nenu venum seri",
+    "tokens": [
+      "kal",
+      "update",
+      "task",
+      "work",
+      "fix",
+      "idhu",
+      "cheyyi",
+      "nenu",
+      "venum",
+      "seri"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 3,
+    "sentence": "dei idea inka undi jaldi cheppanu 🤦",
+    "tokens": [
+      "dei",
+      "idea",
+      "inka",
+      "undi",
+      "jaldi",
+      "cheppanu",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 4,
+    "sentence": "dei unna bhai romba ledu ledu result",
+    "tokens": [
+      "dei",
+      "unna",
+      "bhai",
+      "romba",
+      "ledu",
+      "ledu",
+      "result"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 5,
+    "sentence": "jaldi nahi pannuren nahi system today",
+    "tokens": [
+      "jaldi",
+      "nahi",
+      "pannuren",
+      "nahi",
+      "system",
+      "today"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 6,
+    "sentence": "bug unna ippudu fix gaya kyun idea",
+    "tokens": [
+      "bug",
+      "unna",
+      "ippudu",
+      "fix",
+      "gaya",
+      "kyun",
+      "idea"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 7,
+    "sentence": "task meeting update hai chesa plan 😂",
+    "tokens": [
+      "task",
+      "meeting",
+      "update",
+      "hai",
+      "chesa",
+      "plan",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 8,
+    "sentence": "call kya aaguthu plan mera chala gaya",
+    "tokens": [
+      "call",
+      "kya",
+      "aaguthu",
+      "plan",
+      "mera",
+      "chala",
+      "gaya"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 9,
+    "sentence": "aaguthu ledu fix bolo aaguthu meeting nahi nahi chesa",
+    "tokens": [
+      "aaguthu",
+      "ledu",
+      "fix",
+      "bolo",
+      "aaguthu",
+      "meeting",
+      "nahi",
+      "nahi",
+      "chesa"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 10,
+    "sentence": "ledu arey theek fix naan data ippudu jaldi avuthundi",
+    "tokens": [
+      "ledu",
+      "arey",
+      "theek",
+      "fix",
+      "naan",
+      "data",
+      "ippudu",
+      "jaldi",
+      "avuthundi"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 11,
+    "sentence": "undi illa theek gaya chesa kyun chala",
+    "tokens": [
+      "undi",
+      "illa",
+      "theek",
+      "gaya",
+      "chesa",
+      "kyun",
+      "chala"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 12,
+    "sentence": "nenu system kyun inka nuvvu nuvvu nuvvu result theek ippudu",
+    "tokens": [
+      "nenu",
+      "system",
+      "kyun",
+      "inka",
+      "nuvvu",
+      "nuvvu",
+      "nuvvu",
+      "result",
+      "theek",
+      "ippudu"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 13,
+    "sentence": "plan arey bhai avuthundi idhu seri romba",
+    "tokens": [
+      "plan",
+      "arey",
+      "bhai",
+      "avuthundi",
+      "idhu",
+      "seri",
+      "romba"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 14,
+    "sentence": "project aaguthu naan code tum cheyyi",
+    "tokens": [
+      "project",
+      "aaguthu",
+      "naan",
+      "code",
+      "tum",
+      "cheyyi"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 15,
+    "sentence": "hai raha raha project ippudu nuvvu idea dei",
+    "tokens": [
+      "hai",
+      "raha",
+      "raha",
+      "project",
+      "ippudu",
+      "nuvvu",
+      "idea",
+      "dei"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "te",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 16,
+    "sentence": "dei task cheyyi avuthundi kya meeting tum unna",
+    "tokens": [
+      "dei",
+      "task",
+      "cheyyi",
+      "avuthundi",
+      "kya",
+      "meeting",
+      "tum",
+      "unna"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 17,
+    "sentence": "theek chala inka system system kyun venum call",
+    "tokens": [
+      "theek",
+      "chala",
+      "inka",
+      "system",
+      "system",
+      "kyun",
+      "venum",
+      "call"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 18,
+    "sentence": "ledu ippudu kal project chala kya nenu",
+    "tokens": [
+      "ledu",
+      "ippudu",
+      "kal",
+      "project",
+      "chala",
+      "kya",
+      "nenu"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 19,
+    "sentence": "today inka idea naan task bug arey project naan 🤦",
+    "tokens": [
+      "today",
+      "inka",
+      "idea",
+      "naan",
+      "task",
+      "bug",
+      "arey",
+      "project",
+      "naan",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 20,
+    "sentence": "cheyyi kal bolo bug dei raha",
+    "tokens": [
+      "cheyyi",
+      "kal",
+      "bolo",
+      "bug",
+      "dei",
+      "raha"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 21,
+    "sentence": "gaya nahi meeting irukku aaguthu code bhai plan nenu undi",
+    "tokens": [
+      "gaya",
+      "nahi",
+      "meeting",
+      "irukku",
+      "aaguthu",
+      "code",
+      "bhai",
+      "plan",
+      "nenu",
+      "undi"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 22,
+    "sentence": "unna romba illa ledu result dei kar",
+    "tokens": [
+      "unna",
+      "romba",
+      "illa",
+      "ledu",
+      "result",
+      "dei",
+      "kar"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 23,
+    "sentence": "dei mera hai tum jaldi romba undi venum cheppanu 🤦",
+    "tokens": [
+      "dei",
+      "mera",
+      "hai",
+      "tum",
+      "jaldi",
+      "romba",
+      "undi",
+      "venum",
+      "cheppanu",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 24,
+    "sentence": "illa hai call pannuren unna work idhu illa plan call",
+    "tokens": [
+      "illa",
+      "hai",
+      "call",
+      "pannuren",
+      "unna",
+      "work",
+      "idhu",
+      "illa",
+      "plan",
+      "call"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 25,
+    "sentence": "romba nenu irukku bug unna ledu naan kyun 😅",
+    "tokens": [
+      "romba",
+      "nenu",
+      "irukku",
+      "bug",
+      "unna",
+      "ledu",
+      "naan",
+      "kyun",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 26,
+    "sentence": "ledu cheppanu vastanu cheppanu undi pannuren ledu pannuren",
+    "tokens": [
+      "ledu",
+      "cheppanu",
+      "vastanu",
+      "cheppanu",
+      "undi",
+      "pannuren",
+      "ledu",
+      "pannuren"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 27,
+    "sentence": "pannuren update kal raha nuvvu venum today naan idea",
+    "tokens": [
+      "pannuren",
+      "update",
+      "kal",
+      "raha",
+      "nuvvu",
+      "venum",
+      "today",
+      "naan",
+      "idea"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 28,
+    "sentence": "illa task undi kyun data update jaldi",
+    "tokens": [
+      "illa",
+      "task",
+      "undi",
+      "kyun",
+      "data",
+      "update",
+      "jaldi"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 29,
+    "sentence": "kya plan romba plan illa ippudu tum kyun theek 😍",
+    "tokens": [
+      "kya",
+      "plan",
+      "romba",
+      "plan",
+      "illa",
+      "ippudu",
+      "tum",
+      "kyun",
+      "theek",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 30,
+    "sentence": "ledu undi nuvvu pannuren fix tum ledu romba seri update 🤦",
+    "tokens": [
+      "ledu",
+      "undi",
+      "nuvvu",
+      "pannuren",
+      "fix",
+      "tum",
+      "ledu",
+      "romba",
+      "seri",
+      "update",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 31,
+    "sentence": "update pannuren irukku aaguthu pannuren bolo tum vastanu illa tum 🔥",
+    "tokens": [
+      "update",
+      "pannuren",
+      "irukku",
+      "aaguthu",
+      "pannuren",
+      "bolo",
+      "tum",
+      "vastanu",
+      "illa",
+      "tum",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 32,
+    "sentence": "romba mera update avuthundi mera arey jaldi 😂",
+    "tokens": [
+      "romba",
+      "mera",
+      "update",
+      "avuthundi",
+      "mera",
+      "arey",
+      "jaldi",
+      "😂"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 33,
+    "sentence": "undi cheppanu kar today hai idhu ippudu romba update 😂",
+    "tokens": [
+      "undi",
+      "cheppanu",
+      "kar",
+      "today",
+      "hai",
+      "idhu",
+      "ippudu",
+      "romba",
+      "update",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 34,
+    "sentence": "unna unna dei class update kya code hai raha code 😓",
+    "tokens": [
+      "unna",
+      "unna",
+      "dei",
+      "class",
+      "update",
+      "kya",
+      "code",
+      "hai",
+      "raha",
+      "code",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 35,
+    "sentence": "undi undi dei task seri call fix unna nuvvu nahi",
+    "tokens": [
+      "undi",
+      "undi",
+      "dei",
+      "task",
+      "seri",
+      "call",
+      "fix",
+      "unna",
+      "nuvvu",
+      "nahi"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 36,
+    "sentence": "cheppanu idea chesa idea plan aaguthu irukku vastanu kar 😓",
+    "tokens": [
+      "cheppanu",
+      "idea",
+      "chesa",
+      "idea",
+      "plan",
+      "aaguthu",
+      "irukku",
+      "vastanu",
+      "kar",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 37,
+    "sentence": "jaldi update update system seri cheppanu irukku 😓",
+    "tokens": [
+      "jaldi",
+      "update",
+      "update",
+      "system",
+      "seri",
+      "cheppanu",
+      "irukku",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 38,
+    "sentence": "illa kal idhu kal nenu result 😂",
+    "tokens": [
+      "illa",
+      "kal",
+      "idhu",
+      "kal",
+      "nenu",
+      "result",
+      "😂"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 39,
+    "sentence": "arey bhai cheyyi dei idea seri 🤦",
+    "tokens": [
+      "arey",
+      "bhai",
+      "cheyyi",
+      "dei",
+      "idea",
+      "seri",
+      "🤦"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 40,
+    "sentence": "call nuvvu idea idhu plan update data fix nahi aaguthu 😓",
+    "tokens": [
+      "call",
+      "nuvvu",
+      "idea",
+      "idhu",
+      "plan",
+      "update",
+      "data",
+      "fix",
+      "nahi",
+      "aaguthu",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 41,
+    "sentence": "romba illa result nuvvu unna ledu cheyyi fix idea ledu 😅",
+    "tokens": [
+      "romba",
+      "illa",
+      "result",
+      "nuvvu",
+      "unna",
+      "ledu",
+      "cheyyi",
+      "fix",
+      "idea",
+      "ledu",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "te",
+      "te",
+      "en",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 42,
+    "sentence": "call venum dei mera fix jaldi avuthundi",
+    "tokens": [
+      "call",
+      "venum",
+      "dei",
+      "mera",
+      "fix",
+      "jaldi",
+      "avuthundi"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 43,
+    "sentence": "romba idea idhu idhu bug avuthundi",
+    "tokens": [
+      "romba",
+      "idea",
+      "idhu",
+      "idhu",
+      "bug",
+      "avuthundi"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 44,
+    "sentence": "nenu pannuren romba kyun fix idea ledu aaguthu",
+    "tokens": [
+      "nenu",
+      "pannuren",
+      "romba",
+      "kyun",
+      "fix",
+      "idea",
+      "ledu",
+      "aaguthu"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 45,
+    "sentence": "nenu meeting fix task meeting tum",
+    "tokens": [
+      "nenu",
+      "meeting",
+      "fix",
+      "task",
+      "meeting",
+      "tum"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 46,
+    "sentence": "venum nahi illa inka bolo nuvvu bug cheppanu update ledu",
+    "tokens": [
+      "venum",
+      "nahi",
+      "illa",
+      "inka",
+      "bolo",
+      "nuvvu",
+      "bug",
+      "cheppanu",
+      "update",
+      "ledu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 47,
+    "sentence": "vastanu tum nenu naan chala ledu ippudu fix project kar",
+    "tokens": [
+      "vastanu",
+      "tum",
+      "nenu",
+      "naan",
+      "chala",
+      "ledu",
+      "ippudu",
+      "fix",
+      "project",
+      "kar"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 48,
+    "sentence": "inka undi nuvvu result kar system seri 😍",
+    "tokens": [
+      "inka",
+      "undi",
+      "nuvvu",
+      "result",
+      "kar",
+      "system",
+      "seri",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 49,
+    "sentence": "task ledu ippudu raha chala data raha irukku bhai",
+    "tokens": [
+      "task",
+      "ledu",
+      "ippudu",
+      "raha",
+      "chala",
+      "data",
+      "raha",
+      "irukku",
+      "bhai"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 50,
+    "sentence": "chala call romba task naan venum",
+    "tokens": [
+      "chala",
+      "call",
+      "romba",
+      "task",
+      "naan",
+      "venum"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 51,
+    "sentence": "work unna cheyyi result cheyyi pannuren naan tum 😍",
+    "tokens": [
+      "work",
+      "unna",
+      "cheyyi",
+      "result",
+      "cheyyi",
+      "pannuren",
+      "naan",
+      "tum",
+      "😍"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 52,
+    "sentence": "ledu idea kar today theek kya kyun",
+    "tokens": [
+      "ledu",
+      "idea",
+      "kar",
+      "today",
+      "theek",
+      "kya",
+      "kyun"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 53,
+    "sentence": "ippudu ippudu kya bhai ledu meeting bug avuthundi 🔥",
+    "tokens": [
+      "ippudu",
+      "ippudu",
+      "kya",
+      "bhai",
+      "ledu",
+      "meeting",
+      "bug",
+      "avuthundi",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 54,
+    "sentence": "bolo cheyyi idhu system bug dei call result cheppanu romba",
+    "tokens": [
+      "bolo",
+      "cheyyi",
+      "idhu",
+      "system",
+      "bug",
+      "dei",
+      "call",
+      "result",
+      "cheppanu",
+      "romba"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 55,
+    "sentence": "ippudu cheyyi tum kar hai aaguthu naan result update nahi 😂",
+    "tokens": [
+      "ippudu",
+      "cheyyi",
+      "tum",
+      "kar",
+      "hai",
+      "aaguthu",
+      "naan",
+      "result",
+      "update",
+      "nahi",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 56,
+    "sentence": "nenu irukku jaldi today undi arey mera venum tum venum 🤦",
+    "tokens": [
+      "nenu",
+      "irukku",
+      "jaldi",
+      "today",
+      "undi",
+      "arey",
+      "mera",
+      "venum",
+      "tum",
+      "venum",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 57,
+    "sentence": "project kyun bug unna system dei avuthundi romba seri bug 😓",
+    "tokens": [
+      "project",
+      "kyun",
+      "bug",
+      "unna",
+      "system",
+      "dei",
+      "avuthundi",
+      "romba",
+      "seri",
+      "bug",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 58,
+    "sentence": "seri kar idhu vastanu inka dei plan cheyyi illa vastanu",
+    "tokens": [
+      "seri",
+      "kar",
+      "idhu",
+      "vastanu",
+      "inka",
+      "dei",
+      "plan",
+      "cheyyi",
+      "illa",
+      "vastanu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 59,
+    "sentence": "chala aaguthu idhu jaldi pannuren data cheyyi vastanu system naan",
+    "tokens": [
+      "chala",
+      "aaguthu",
+      "idhu",
+      "jaldi",
+      "pannuren",
+      "data",
+      "cheyyi",
+      "vastanu",
+      "system",
+      "naan"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 60,
+    "sentence": "undi dei dei ippudu nuvvu ledu naan kal",
+    "tokens": [
+      "undi",
+      "dei",
+      "dei",
+      "ippudu",
+      "nuvvu",
+      "ledu",
+      "naan",
+      "kal"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 61,
+    "sentence": "bhai arey kya vastanu undi bhai illa pannuren seri seri",
+    "tokens": [
+      "bhai",
+      "arey",
+      "kya",
+      "vastanu",
+      "undi",
+      "bhai",
+      "illa",
+      "pannuren",
+      "seri",
+      "seri"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 62,
+    "sentence": "idea seri cheppanu fix jaldi illa venum pannuren",
+    "tokens": [
+      "idea",
+      "seri",
+      "cheppanu",
+      "fix",
+      "jaldi",
+      "illa",
+      "venum",
+      "pannuren"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 63,
+    "sentence": "idea venum code class avuthundi update naan cheyyi 🤦",
+    "tokens": [
+      "idea",
+      "venum",
+      "code",
+      "class",
+      "avuthundi",
+      "update",
+      "naan",
+      "cheyyi",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 64,
+    "sentence": "update arey tum ippudu seri chesa nahi bhai illa",
+    "tokens": [
+      "update",
+      "arey",
+      "tum",
+      "ippudu",
+      "seri",
+      "chesa",
+      "nahi",
+      "bhai",
+      "illa"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 65,
+    "sentence": "pannuren hai bolo aaguthu illa plan romba avuthundi 😍",
+    "tokens": [
+      "pannuren",
+      "hai",
+      "bolo",
+      "aaguthu",
+      "illa",
+      "plan",
+      "romba",
+      "avuthundi",
+      "😍"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 66,
+    "sentence": "nahi ledu vastanu undi kar aaguthu system 😍",
+    "tokens": [
+      "nahi",
+      "ledu",
+      "vastanu",
+      "undi",
+      "kar",
+      "aaguthu",
+      "system",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 67,
+    "sentence": "code vastanu bhai pannuren avuthundi illa",
+    "tokens": [
+      "code",
+      "vastanu",
+      "bhai",
+      "pannuren",
+      "avuthundi",
+      "illa"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 68,
+    "sentence": "romba avuthundi chesa aaguthu nuvvu gaya dei",
+    "tokens": [
+      "romba",
+      "avuthundi",
+      "chesa",
+      "aaguthu",
+      "nuvvu",
+      "gaya",
+      "dei"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 69,
+    "sentence": "chala raha vastanu cheppanu venum raha ledu raha chesa cheyyi 😑",
+    "tokens": [
+      "chala",
+      "raha",
+      "vastanu",
+      "cheppanu",
+      "venum",
+      "raha",
+      "ledu",
+      "raha",
+      "chesa",
+      "cheyyi",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 70,
+    "sentence": "illa undi cheppanu update cheyyi dei romba",
+    "tokens": [
+      "illa",
+      "undi",
+      "cheppanu",
+      "update",
+      "cheyyi",
+      "dei",
+      "romba"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 71,
+    "sentence": "meeting venum plan aaguthu seri arey kar pannuren illa seri",
+    "tokens": [
+      "meeting",
+      "venum",
+      "plan",
+      "aaguthu",
+      "seri",
+      "arey",
+      "kar",
+      "pannuren",
+      "illa",
+      "seri"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 72,
+    "sentence": "cheppanu fix tum theek naan nahi kar venum",
+    "tokens": [
+      "cheppanu",
+      "fix",
+      "tum",
+      "theek",
+      "naan",
+      "nahi",
+      "kar",
+      "venum"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 73,
+    "sentence": "cheppanu pannuren irukku illa venum result call 🤦",
+    "tokens": [
+      "cheppanu",
+      "pannuren",
+      "irukku",
+      "illa",
+      "venum",
+      "result",
+      "call",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "ta",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 74,
+    "sentence": "tum unna vastanu raha romba cheyyi ledu vastanu",
+    "tokens": [
+      "tum",
+      "unna",
+      "vastanu",
+      "raha",
+      "romba",
+      "cheyyi",
+      "ledu",
+      "vastanu"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 75,
+    "sentence": "data dei code gaya aaguthu pannuren system naan cheyyi 😂",
+    "tokens": [
+      "data",
+      "dei",
+      "code",
+      "gaya",
+      "aaguthu",
+      "pannuren",
+      "system",
+      "naan",
+      "cheyyi",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 76,
+    "sentence": "tum unna theek aaguthu inka idea inka bug",
+    "tokens": [
+      "tum",
+      "unna",
+      "theek",
+      "aaguthu",
+      "inka",
+      "idea",
+      "inka",
+      "bug"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 77,
+    "sentence": "pannuren meeting chesa fix task irukku 😂",
+    "tokens": [
+      "pannuren",
+      "meeting",
+      "chesa",
+      "fix",
+      "task",
+      "irukku",
+      "😂"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 78,
+    "sentence": "update hai system data arey call romba",
+    "tokens": [
+      "update",
+      "hai",
+      "system",
+      "data",
+      "arey",
+      "call",
+      "romba"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 79,
+    "sentence": "work cheppanu nenu hai arey cheyyi seri work jaldi",
+    "tokens": [
+      "work",
+      "cheppanu",
+      "nenu",
+      "hai",
+      "arey",
+      "cheyyi",
+      "seri",
+      "work",
+      "jaldi"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 80,
+    "sentence": "data result system call mera idea nuvvu plan result 😅",
+    "tokens": [
+      "data",
+      "result",
+      "system",
+      "call",
+      "mera",
+      "idea",
+      "nuvvu",
+      "plan",
+      "result",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 81,
+    "sentence": "cheppanu aaguthu dei bhai hai romba nahi",
+    "tokens": [
+      "cheppanu",
+      "aaguthu",
+      "dei",
+      "bhai",
+      "hai",
+      "romba",
+      "nahi"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 82,
+    "sentence": "venum aaguthu meeting data raha raha",
+    "tokens": [
+      "venum",
+      "aaguthu",
+      "meeting",
+      "data",
+      "raha",
+      "raha"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 83,
+    "sentence": "kar mera raha tum pannuren seri",
+    "tokens": [
+      "kar",
+      "mera",
+      "raha",
+      "tum",
+      "pannuren",
+      "seri"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 84,
+    "sentence": "meeting pannuren cheyyi mera jaldi kyun nenu unna arey",
+    "tokens": [
+      "meeting",
+      "pannuren",
+      "cheyyi",
+      "mera",
+      "jaldi",
+      "kyun",
+      "nenu",
+      "unna",
+      "arey"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 85,
+    "sentence": "avuthundi undi avuthundi venum fix naan bhai idhu unna theek",
+    "tokens": [
+      "avuthundi",
+      "undi",
+      "avuthundi",
+      "venum",
+      "fix",
+      "naan",
+      "bhai",
+      "idhu",
+      "unna",
+      "theek"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 86,
+    "sentence": "work tum pannuren undi bolo code kyun naan code",
+    "tokens": [
+      "work",
+      "tum",
+      "pannuren",
+      "undi",
+      "bolo",
+      "code",
+      "kyun",
+      "naan",
+      "code"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 87,
+    "sentence": "seri nahi kal avuthundi ippudu romba 🔥",
+    "tokens": [
+      "seri",
+      "nahi",
+      "kal",
+      "avuthundi",
+      "ippudu",
+      "romba",
+      "🔥"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 88,
+    "sentence": "bolo hai pannuren jaldi nenu meeting project kar ledu",
+    "tokens": [
+      "bolo",
+      "hai",
+      "pannuren",
+      "jaldi",
+      "nenu",
+      "meeting",
+      "project",
+      "kar",
+      "ledu"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 89,
+    "sentence": "pannuren jaldi ippudu illa undi avuthundi data idhu",
+    "tokens": [
+      "pannuren",
+      "jaldi",
+      "ippudu",
+      "illa",
+      "undi",
+      "avuthundi",
+      "data",
+      "idhu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 90,
+    "sentence": "romba code kal pannuren irukku avuthundi dei",
+    "tokens": [
+      "romba",
+      "code",
+      "kal",
+      "pannuren",
+      "irukku",
+      "avuthundi",
+      "dei"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 91,
+    "sentence": "naan idea bug romba theek cheyyi bug 😑",
+    "tokens": [
+      "naan",
+      "idea",
+      "bug",
+      "romba",
+      "theek",
+      "cheyyi",
+      "bug",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 92,
+    "sentence": "seri pannuren system nahi idhu bhai project task",
+    "tokens": [
+      "seri",
+      "pannuren",
+      "system",
+      "nahi",
+      "idhu",
+      "bhai",
+      "project",
+      "task"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 93,
+    "sentence": "irukku nahi irukku bolo bhai nenu kar 😍",
+    "tokens": [
+      "irukku",
+      "nahi",
+      "irukku",
+      "bolo",
+      "bhai",
+      "nenu",
+      "kar",
+      "😍"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 94,
+    "sentence": "system romba ippudu theek ledu idhu kar ledu fix",
+    "tokens": [
+      "system",
+      "romba",
+      "ippudu",
+      "theek",
+      "ledu",
+      "idhu",
+      "kar",
+      "ledu",
+      "fix"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 95,
+    "sentence": "cheyyi illa seri inka tum inka romba mera",
+    "tokens": [
+      "cheyyi",
+      "illa",
+      "seri",
+      "inka",
+      "tum",
+      "inka",
+      "romba",
+      "mera"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 96,
+    "sentence": "meeting nuvvu raha chesa bolo venum today",
+    "tokens": [
+      "meeting",
+      "nuvvu",
+      "raha",
+      "chesa",
+      "bolo",
+      "venum",
+      "today"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 97,
+    "sentence": "vastanu illa system bolo ledu inka",
+    "tokens": [
+      "vastanu",
+      "illa",
+      "system",
+      "bolo",
+      "ledu",
+      "inka"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 98,
+    "sentence": "idhu update venum fix idhu class ippudu kar chala",
+    "tokens": [
+      "idhu",
+      "update",
+      "venum",
+      "fix",
+      "idhu",
+      "class",
+      "ippudu",
+      "kar",
+      "chala"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 99,
+    "sentence": "bolo kal irukku unna vastanu system dei 😓",
+    "tokens": [
+      "bolo",
+      "kal",
+      "irukku",
+      "unna",
+      "vastanu",
+      "system",
+      "dei",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 100,
+    "sentence": "vastanu aaguthu idea tum raha idhu venum 😓",
+    "tokens": [
+      "vastanu",
+      "aaguthu",
+      "idea",
+      "tum",
+      "raha",
+      "idhu",
+      "venum",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 101,
+    "sentence": "undi kyun undi data project inka work nenu cheppanu 😓",
+    "tokens": [
+      "undi",
+      "kyun",
+      "undi",
+      "data",
+      "project",
+      "inka",
+      "work",
+      "nenu",
+      "cheppanu",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "te",
+      "en",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 102,
+    "sentence": "class raha illa task unna arey today chala system 😑",
+    "tokens": [
+      "class",
+      "raha",
+      "illa",
+      "task",
+      "unna",
+      "arey",
+      "today",
+      "chala",
+      "system",
+      "😑"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 103,
+    "sentence": "nenu tum arey chesa idhu seri code task",
+    "tokens": [
+      "nenu",
+      "tum",
+      "arey",
+      "chesa",
+      "idhu",
+      "seri",
+      "code",
+      "task"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 104,
+    "sentence": "irukku hai result avuthundi seri arey plan dei cheppanu seri 😅",
+    "tokens": [
+      "irukku",
+      "hai",
+      "result",
+      "avuthundi",
+      "seri",
+      "arey",
+      "plan",
+      "dei",
+      "cheppanu",
+      "seri",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 105,
+    "sentence": "raha undi aaguthu cheyyi avuthundi cheppanu",
+    "tokens": [
+      "raha",
+      "undi",
+      "aaguthu",
+      "cheyyi",
+      "avuthundi",
+      "cheppanu"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 106,
+    "sentence": "fix bolo pannuren code hai gaya fix task pannuren",
+    "tokens": [
+      "fix",
+      "bolo",
+      "pannuren",
+      "code",
+      "hai",
+      "gaya",
+      "fix",
+      "task",
+      "pannuren"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 107,
+    "sentence": "class code seri romba tum dei nahi 😍",
+    "tokens": [
+      "class",
+      "code",
+      "seri",
+      "romba",
+      "tum",
+      "dei",
+      "nahi",
+      "😍"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 108,
+    "sentence": "work idea bolo nenu system illa ledu chesa",
+    "tokens": [
+      "work",
+      "idea",
+      "bolo",
+      "nenu",
+      "system",
+      "illa",
+      "ledu",
+      "chesa"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 109,
+    "sentence": "tum venum result illa undi unna cheppanu meeting ledu",
+    "tokens": [
+      "tum",
+      "venum",
+      "result",
+      "illa",
+      "undi",
+      "unna",
+      "cheppanu",
+      "meeting",
+      "ledu"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 110,
+    "sentence": "naan meeting nenu bug today code kar cheyyi naan",
+    "tokens": [
+      "naan",
+      "meeting",
+      "nenu",
+      "bug",
+      "today",
+      "code",
+      "kar",
+      "cheyyi",
+      "naan"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "en",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 111,
+    "sentence": "theek dei ledu kar ledu dei call",
+    "tokens": [
+      "theek",
+      "dei",
+      "ledu",
+      "kar",
+      "ledu",
+      "dei",
+      "call"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 112,
+    "sentence": "bolo nenu chesa project meeting naan chala irukku idhu system",
+    "tokens": [
+      "bolo",
+      "nenu",
+      "chesa",
+      "project",
+      "meeting",
+      "naan",
+      "chala",
+      "irukku",
+      "idhu",
+      "system"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 113,
+    "sentence": "bhai task kal kyun venum fix aaguthu",
+    "tokens": [
+      "bhai",
+      "task",
+      "kal",
+      "kyun",
+      "venum",
+      "fix",
+      "aaguthu"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 114,
+    "sentence": "kyun inka unna raha bhai dei ledu irukku",
+    "tokens": [
+      "kyun",
+      "inka",
+      "unna",
+      "raha",
+      "bhai",
+      "dei",
+      "ledu",
+      "irukku"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 115,
+    "sentence": "ippudu arey task nahi mera mera task 🤦",
+    "tokens": [
+      "ippudu",
+      "arey",
+      "task",
+      "nahi",
+      "mera",
+      "mera",
+      "task",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 116,
+    "sentence": "call venum ippudu illa ippudu vastanu task",
+    "tokens": [
+      "call",
+      "venum",
+      "ippudu",
+      "illa",
+      "ippudu",
+      "vastanu",
+      "task"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 117,
+    "sentence": "tum ippudu theek idhu bhai romba meeting cheyyi",
+    "tokens": [
+      "tum",
+      "ippudu",
+      "theek",
+      "idhu",
+      "bhai",
+      "romba",
+      "meeting",
+      "cheyyi"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 118,
+    "sentence": "idhu call cheyyi naan romba illa 😅",
+    "tokens": [
+      "idhu",
+      "call",
+      "cheyyi",
+      "naan",
+      "romba",
+      "illa",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 119,
+    "sentence": "chala ledu avuthundi inka work inka arey",
+    "tokens": [
+      "chala",
+      "ledu",
+      "avuthundi",
+      "inka",
+      "work",
+      "inka",
+      "arey"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "te",
+      "en",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 120,
+    "sentence": "class result call raha irukku jaldi naan kyun aaguthu",
+    "tokens": [
+      "class",
+      "result",
+      "call",
+      "raha",
+      "irukku",
+      "jaldi",
+      "naan",
+      "kyun",
+      "aaguthu"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 121,
+    "sentence": "chala ledu kal chala meeting pannuren code raha illa",
+    "tokens": [
+      "chala",
+      "ledu",
+      "kal",
+      "chala",
+      "meeting",
+      "pannuren",
+      "code",
+      "raha",
+      "illa"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 122,
+    "sentence": "kyun kal pannuren bolo irukku gaya nenu data bug hai",
+    "tokens": [
+      "kyun",
+      "kal",
+      "pannuren",
+      "bolo",
+      "irukku",
+      "gaya",
+      "nenu",
+      "data",
+      "bug",
+      "hai"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 123,
+    "sentence": "chesa system bug ledu inka bug 🔥",
+    "tokens": [
+      "chesa",
+      "system",
+      "bug",
+      "ledu",
+      "inka",
+      "bug",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "te",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 124,
+    "sentence": "unna ledu today undi avuthundi idhu seri",
+    "tokens": [
+      "unna",
+      "ledu",
+      "today",
+      "undi",
+      "avuthundi",
+      "idhu",
+      "seri"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "te",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 125,
+    "sentence": "chala kya kya ledu aaguthu chesa seri hai seri 🤦",
+    "tokens": [
+      "chala",
+      "kya",
+      "kya",
+      "ledu",
+      "aaguthu",
+      "chesa",
+      "seri",
+      "hai",
+      "seri",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 126,
+    "sentence": "idea dei update dei kal pannuren fix system",
+    "tokens": [
+      "idea",
+      "dei",
+      "update",
+      "dei",
+      "kal",
+      "pannuren",
+      "fix",
+      "system"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 127,
+    "sentence": "gaya ledu theek bolo gaya idea vastanu bug",
+    "tokens": [
+      "gaya",
+      "ledu",
+      "theek",
+      "bolo",
+      "gaya",
+      "idea",
+      "vastanu",
+      "bug"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 128,
+    "sentence": "task naan inka meeting bolo unna system cheyyi theek avuthundi",
+    "tokens": [
+      "task",
+      "naan",
+      "inka",
+      "meeting",
+      "bolo",
+      "unna",
+      "system",
+      "cheyyi",
+      "theek",
+      "avuthundi"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 129,
+    "sentence": "unna aaguthu nuvvu cheyyi unna romba bug idhu ippudu nahi",
+    "tokens": [
+      "unna",
+      "aaguthu",
+      "nuvvu",
+      "cheyyi",
+      "unna",
+      "romba",
+      "bug",
+      "idhu",
+      "ippudu",
+      "nahi"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 130,
+    "sentence": "vastanu update mera call illa ledu bhai aaguthu irukku",
+    "tokens": [
+      "vastanu",
+      "update",
+      "mera",
+      "call",
+      "illa",
+      "ledu",
+      "bhai",
+      "aaguthu",
+      "irukku"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 131,
+    "sentence": "seri ledu jaldi bug aaguthu project romba illa 😅",
+    "tokens": [
+      "seri",
+      "ledu",
+      "jaldi",
+      "bug",
+      "aaguthu",
+      "project",
+      "romba",
+      "illa",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 132,
+    "sentence": "tum mera dei idea nuvvu pannuren vastanu idea",
+    "tokens": [
+      "tum",
+      "mera",
+      "dei",
+      "idea",
+      "nuvvu",
+      "pannuren",
+      "vastanu",
+      "idea"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 133,
+    "sentence": "bhai gaya hai idea venum pannuren venum avuthundi avuthundi 😓",
+    "tokens": [
+      "bhai",
+      "gaya",
+      "hai",
+      "idea",
+      "venum",
+      "pannuren",
+      "venum",
+      "avuthundi",
+      "avuthundi",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 134,
+    "sentence": "nuvvu bug hai hai cheyyi bhai jaldi bolo 😍",
+    "tokens": [
+      "nuvvu",
+      "bug",
+      "hai",
+      "hai",
+      "cheyyi",
+      "bhai",
+      "jaldi",
+      "bolo",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 135,
+    "sentence": "vastanu undi gaya aaguthu bhai bolo raha 😑",
+    "tokens": [
+      "vastanu",
+      "undi",
+      "gaya",
+      "aaguthu",
+      "bhai",
+      "bolo",
+      "raha",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 136,
+    "sentence": "cheyyi system meeting nahi idea jaldi dei pannuren venum",
+    "tokens": [
+      "cheyyi",
+      "system",
+      "meeting",
+      "nahi",
+      "idea",
+      "jaldi",
+      "dei",
+      "pannuren",
+      "venum"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 137,
+    "sentence": "romba undi theek illa chesa chesa work",
+    "tokens": [
+      "romba",
+      "undi",
+      "theek",
+      "illa",
+      "chesa",
+      "chesa",
+      "work"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 138,
+    "sentence": "unna idhu code class meeting pannuren project irukku unna 😑",
+    "tokens": [
+      "unna",
+      "idhu",
+      "code",
+      "class",
+      "meeting",
+      "pannuren",
+      "project",
+      "irukku",
+      "unna",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 139,
+    "sentence": "plan fix fix nahi nahi today seri 🤦",
+    "tokens": [
+      "plan",
+      "fix",
+      "fix",
+      "nahi",
+      "nahi",
+      "today",
+      "seri",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 140,
+    "sentence": "idea bug theek arey romba cheppanu kyun tum chala",
+    "tokens": [
+      "idea",
+      "bug",
+      "theek",
+      "arey",
+      "romba",
+      "cheppanu",
+      "kyun",
+      "tum",
+      "chala"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 141,
+    "sentence": "cheyyi update code bhai seri update idhu",
+    "tokens": [
+      "cheyyi",
+      "update",
+      "code",
+      "bhai",
+      "seri",
+      "update",
+      "idhu"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 142,
+    "sentence": "class bolo naan class idhu tum work 🤦",
+    "tokens": [
+      "class",
+      "bolo",
+      "naan",
+      "class",
+      "idhu",
+      "tum",
+      "work",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 143,
+    "sentence": "irukku call plan vastanu cheyyi mera inka raha 😓",
+    "tokens": [
+      "irukku",
+      "call",
+      "plan",
+      "vastanu",
+      "cheyyi",
+      "mera",
+      "inka",
+      "raha",
+      "😓"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 144,
+    "sentence": "aaguthu kar romba kya chala pannuren kal vastanu 😅",
+    "tokens": [
+      "aaguthu",
+      "kar",
+      "romba",
+      "kya",
+      "chala",
+      "pannuren",
+      "kal",
+      "vastanu",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 145,
+    "sentence": "unna aaguthu gaya dei cheppanu data nahi venum",
+    "tokens": [
+      "unna",
+      "aaguthu",
+      "gaya",
+      "dei",
+      "cheppanu",
+      "data",
+      "nahi",
+      "venum"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 146,
+    "sentence": "undi theek tum vastanu kal bug avuthundi 😍",
+    "tokens": [
+      "undi",
+      "theek",
+      "tum",
+      "vastanu",
+      "kal",
+      "bug",
+      "avuthundi",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 147,
+    "sentence": "update illa system kya seri naan aaguthu inka 😂",
+    "tokens": [
+      "update",
+      "illa",
+      "system",
+      "kya",
+      "seri",
+      "naan",
+      "aaguthu",
+      "inka",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 148,
+    "sentence": "jaldi undi nuvvu kya class idhu chesa work 🔥",
+    "tokens": [
+      "jaldi",
+      "undi",
+      "nuvvu",
+      "kya",
+      "class",
+      "idhu",
+      "chesa",
+      "work",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 149,
+    "sentence": "naan raha bhai pannuren nenu today jaldi 🤦",
+    "tokens": [
+      "naan",
+      "raha",
+      "bhai",
+      "pannuren",
+      "nenu",
+      "today",
+      "jaldi",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 150,
+    "sentence": "dei update bhai bug avuthundi bhai seri irukku plan irukku",
+    "tokens": [
+      "dei",
+      "update",
+      "bhai",
+      "bug",
+      "avuthundi",
+      "bhai",
+      "seri",
+      "irukku",
+      "plan",
+      "irukku"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 151,
+    "sentence": "theek raha kyun tum pannuren aaguthu tum naan ippudu",
+    "tokens": [
+      "theek",
+      "raha",
+      "kyun",
+      "tum",
+      "pannuren",
+      "aaguthu",
+      "tum",
+      "naan",
+      "ippudu"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 152,
+    "sentence": "idhu seri seri kal ippudu hai unna vastanu",
+    "tokens": [
+      "idhu",
+      "seri",
+      "seri",
+      "kal",
+      "ippudu",
+      "hai",
+      "unna",
+      "vastanu"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 153,
+    "sentence": "plan call raha arey bolo naan result",
+    "tokens": [
+      "plan",
+      "call",
+      "raha",
+      "arey",
+      "bolo",
+      "naan",
+      "result"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 154,
+    "sentence": "meeting work chesa aaguthu tum system arey 😑",
+    "tokens": [
+      "meeting",
+      "work",
+      "chesa",
+      "aaguthu",
+      "tum",
+      "system",
+      "arey",
+      "😑"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 155,
+    "sentence": "kal ledu chala kal arey cheyyi ledu raha kar chesa 😑",
+    "tokens": [
+      "kal",
+      "ledu",
+      "chala",
+      "kal",
+      "arey",
+      "cheyyi",
+      "ledu",
+      "raha",
+      "kar",
+      "chesa",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 156,
+    "sentence": "bug result inka unna project fix nahi",
+    "tokens": [
+      "bug",
+      "result",
+      "inka",
+      "unna",
+      "project",
+      "fix",
+      "nahi"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "te",
+      "te",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 157,
+    "sentence": "arey ippudu jaldi bug bhai bolo ledu kar",
+    "tokens": [
+      "arey",
+      "ippudu",
+      "jaldi",
+      "bug",
+      "bhai",
+      "bolo",
+      "ledu",
+      "kar"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 158,
+    "sentence": "work pannuren illa cheppanu pannuren seri aaguthu ledu undi data",
+    "tokens": [
+      "work",
+      "pannuren",
+      "illa",
+      "cheppanu",
+      "pannuren",
+      "seri",
+      "aaguthu",
+      "ledu",
+      "undi",
+      "data"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 159,
+    "sentence": "cheyyi illa seri work venum result",
+    "tokens": [
+      "cheyyi",
+      "illa",
+      "seri",
+      "work",
+      "venum",
+      "result"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 160,
+    "sentence": "update result kyun irukku theek avuthundi",
+    "tokens": [
+      "update",
+      "result",
+      "kyun",
+      "irukku",
+      "theek",
+      "avuthundi"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 161,
+    "sentence": "aaguthu work work inka naan fix nuvvu",
+    "tokens": [
+      "aaguthu",
+      "work",
+      "work",
+      "inka",
+      "naan",
+      "fix",
+      "nuvvu"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 162,
+    "sentence": "data seri ippudu project idhu chesa update plan idea 🔥",
+    "tokens": [
+      "data",
+      "seri",
+      "ippudu",
+      "project",
+      "idhu",
+      "chesa",
+      "update",
+      "plan",
+      "idea",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 163,
+    "sentence": "call unna bug naan dei ledu kar naan",
+    "tokens": [
+      "call",
+      "unna",
+      "bug",
+      "naan",
+      "dei",
+      "ledu",
+      "kar",
+      "naan"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 164,
+    "sentence": "result plan kya inka irukku irukku unna",
+    "tokens": [
+      "result",
+      "plan",
+      "kya",
+      "inka",
+      "irukku",
+      "irukku",
+      "unna"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 165,
+    "sentence": "plan bug dei jaldi raha meeting plan jaldi chala unna",
+    "tokens": [
+      "plan",
+      "bug",
+      "dei",
+      "jaldi",
+      "raha",
+      "meeting",
+      "plan",
+      "jaldi",
+      "chala",
+      "unna"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 166,
+    "sentence": "theek call plan undi irukku idea chesa",
+    "tokens": [
+      "theek",
+      "call",
+      "plan",
+      "undi",
+      "irukku",
+      "idea",
+      "chesa"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 167,
+    "sentence": "bug inka ledu update system naan bug",
+    "tokens": [
+      "bug",
+      "inka",
+      "ledu",
+      "update",
+      "system",
+      "naan",
+      "bug"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 168,
+    "sentence": "data jaldi nuvvu chesa mera inka arey dei irukku today",
+    "tokens": [
+      "data",
+      "jaldi",
+      "nuvvu",
+      "chesa",
+      "mera",
+      "inka",
+      "arey",
+      "dei",
+      "irukku",
+      "today"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 169,
+    "sentence": "illa avuthundi task system bhai chala chala meeting seri 😅",
+    "tokens": [
+      "illa",
+      "avuthundi",
+      "task",
+      "system",
+      "bhai",
+      "chala",
+      "chala",
+      "meeting",
+      "seri",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 170,
+    "sentence": "vastanu cheyyi venum cheyyi kar cheppanu romba 😍",
+    "tokens": [
+      "vastanu",
+      "cheyyi",
+      "venum",
+      "cheyyi",
+      "kar",
+      "cheppanu",
+      "romba",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 171,
+    "sentence": "jaldi cheyyi avuthundi update vastanu theek work plan 😍",
+    "tokens": [
+      "jaldi",
+      "cheyyi",
+      "avuthundi",
+      "update",
+      "vastanu",
+      "theek",
+      "work",
+      "plan",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 172,
+    "sentence": "unna idea chesa kyun cheppanu aaguthu project cheyyi venum nuvvu 🔥",
+    "tokens": [
+      "unna",
+      "idea",
+      "chesa",
+      "kyun",
+      "cheppanu",
+      "aaguthu",
+      "project",
+      "cheyyi",
+      "venum",
+      "nuvvu",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 173,
+    "sentence": "fix fix update gaya ippudu mera illa plan",
+    "tokens": [
+      "fix",
+      "fix",
+      "update",
+      "gaya",
+      "ippudu",
+      "mera",
+      "illa",
+      "plan"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 174,
+    "sentence": "unna venum fix pannuren naan venum dei 😓",
+    "tokens": [
+      "unna",
+      "venum",
+      "fix",
+      "pannuren",
+      "naan",
+      "venum",
+      "dei",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 175,
+    "sentence": "irukku data vastanu fix irukku dei cheppanu class today result 🤦",
+    "tokens": [
+      "irukku",
+      "data",
+      "vastanu",
+      "fix",
+      "irukku",
+      "dei",
+      "cheppanu",
+      "class",
+      "today",
+      "result",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "en",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 176,
+    "sentence": "theek avuthundi nuvvu cheyyi pannuren irukku 😂",
+    "tokens": [
+      "theek",
+      "avuthundi",
+      "nuvvu",
+      "cheyyi",
+      "pannuren",
+      "irukku",
+      "😂"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 177,
+    "sentence": "ledu kal ledu pannuren code kya chesa data inka 😍",
+    "tokens": [
+      "ledu",
+      "kal",
+      "ledu",
+      "pannuren",
+      "code",
+      "kya",
+      "chesa",
+      "data",
+      "inka",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 178,
+    "sentence": "task gaya idhu vastanu chala raha kyun idhu plan",
+    "tokens": [
+      "task",
+      "gaya",
+      "idhu",
+      "vastanu",
+      "chala",
+      "raha",
+      "kyun",
+      "idhu",
+      "plan"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 179,
+    "sentence": "meeting nenu idhu plan cheppanu nahi ledu chala 🔥",
+    "tokens": [
+      "meeting",
+      "nenu",
+      "idhu",
+      "plan",
+      "cheppanu",
+      "nahi",
+      "ledu",
+      "chala",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 180,
+    "sentence": "kya irukku hai meeting idea call dei system dei bhai 😑",
+    "tokens": [
+      "kya",
+      "irukku",
+      "hai",
+      "meeting",
+      "idea",
+      "call",
+      "dei",
+      "system",
+      "dei",
+      "bhai",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 181,
+    "sentence": "romba avuthundi dei unna fix kya inka ippudu naan kal",
+    "tokens": [
+      "romba",
+      "avuthundi",
+      "dei",
+      "unna",
+      "fix",
+      "kya",
+      "inka",
+      "ippudu",
+      "naan",
+      "kal"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 182,
+    "sentence": "bhai vastanu fix kya avuthundi update plan cheppanu",
+    "tokens": [
+      "bhai",
+      "vastanu",
+      "fix",
+      "kya",
+      "avuthundi",
+      "update",
+      "plan",
+      "cheppanu"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 183,
+    "sentence": "nuvvu ledu irukku idea aaguthu update naan",
+    "tokens": [
+      "nuvvu",
+      "ledu",
+      "irukku",
+      "idea",
+      "aaguthu",
+      "update",
+      "naan"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 184,
+    "sentence": "arey today raha kya illa result",
+    "tokens": [
+      "arey",
+      "today",
+      "raha",
+      "kya",
+      "illa",
+      "result"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 185,
+    "sentence": "kyun undi hai cheyyi bug irukku mera bug cheyyi",
+    "tokens": [
+      "kyun",
+      "undi",
+      "hai",
+      "cheyyi",
+      "bug",
+      "irukku",
+      "mera",
+      "bug",
+      "cheyyi"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 186,
+    "sentence": "data mera class inka kal fix irukku hai",
+    "tokens": [
+      "data",
+      "mera",
+      "class",
+      "inka",
+      "kal",
+      "fix",
+      "irukku",
+      "hai"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 187,
+    "sentence": "meeting today kyun code idea data nuvvu naan",
+    "tokens": [
+      "meeting",
+      "today",
+      "kyun",
+      "code",
+      "idea",
+      "data",
+      "nuvvu",
+      "naan"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "en",
+      "en",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 188,
+    "sentence": "naan chala work fix hai idhu nenu",
+    "tokens": [
+      "naan",
+      "chala",
+      "work",
+      "fix",
+      "hai",
+      "idhu",
+      "nenu"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 189,
+    "sentence": "project avuthundi aaguthu arey result naan",
+    "tokens": [
+      "project",
+      "avuthundi",
+      "aaguthu",
+      "arey",
+      "result",
+      "naan"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 190,
+    "sentence": "irukku raha irukku nuvvu bolo dei result ledu",
+    "tokens": [
+      "irukku",
+      "raha",
+      "irukku",
+      "nuvvu",
+      "bolo",
+      "dei",
+      "result",
+      "ledu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 191,
+    "sentence": "seri avuthundi project arey update seri raha plan",
+    "tokens": [
+      "seri",
+      "avuthundi",
+      "project",
+      "arey",
+      "update",
+      "seri",
+      "raha",
+      "plan"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 192,
+    "sentence": "inka kar theek gaya class arey kar avuthundi bolo chesa",
+    "tokens": [
+      "inka",
+      "kar",
+      "theek",
+      "gaya",
+      "class",
+      "arey",
+      "kar",
+      "avuthundi",
+      "bolo",
+      "chesa"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 193,
+    "sentence": "result idea aaguthu kal irukku fix code",
+    "tokens": [
+      "result",
+      "idea",
+      "aaguthu",
+      "kal",
+      "irukku",
+      "fix",
+      "code"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 194,
+    "sentence": "arey bug vastanu illa undi today illa",
+    "tokens": [
+      "arey",
+      "bug",
+      "vastanu",
+      "illa",
+      "undi",
+      "today",
+      "illa"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 195,
+    "sentence": "system hai aaguthu kya romba theek vastanu kya pannuren",
+    "tokens": [
+      "system",
+      "hai",
+      "aaguthu",
+      "kya",
+      "romba",
+      "theek",
+      "vastanu",
+      "kya",
+      "pannuren"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 196,
+    "sentence": "unna unna result romba chala arey",
+    "tokens": [
+      "unna",
+      "unna",
+      "result",
+      "romba",
+      "chala",
+      "arey"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 197,
+    "sentence": "unna class aaguthu arey idhu pannuren meeting chala kar",
+    "tokens": [
+      "unna",
+      "class",
+      "aaguthu",
+      "arey",
+      "idhu",
+      "pannuren",
+      "meeting",
+      "chala",
+      "kar"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 198,
+    "sentence": "kal tum kar unna task dei pannuren 😅",
+    "tokens": [
+      "kal",
+      "tum",
+      "kar",
+      "unna",
+      "task",
+      "dei",
+      "pannuren",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 199,
+    "sentence": "mera work unna naan project nahi 😅",
+    "tokens": [
+      "mera",
+      "work",
+      "unna",
+      "naan",
+      "project",
+      "nahi",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 200,
+    "sentence": "naan irukku vastanu avuthundi romba naan kyun bolo ippudu 🤦",
+    "tokens": [
+      "naan",
+      "irukku",
+      "vastanu",
+      "avuthundi",
+      "romba",
+      "naan",
+      "kyun",
+      "bolo",
+      "ippudu",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 201,
+    "sentence": "romba task kal pannuren unna theek raha",
+    "tokens": [
+      "romba",
+      "task",
+      "kal",
+      "pannuren",
+      "unna",
+      "theek",
+      "raha"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 202,
+    "sentence": "project cheyyi naan ippudu unna result raha 😅",
+    "tokens": [
+      "project",
+      "cheyyi",
+      "naan",
+      "ippudu",
+      "unna",
+      "result",
+      "raha",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 203,
+    "sentence": "code task raha kar arey vastanu task",
+    "tokens": [
+      "code",
+      "task",
+      "raha",
+      "kar",
+      "arey",
+      "vastanu",
+      "task"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 204,
+    "sentence": "jaldi arey theek vastanu idea raha 🔥",
+    "tokens": [
+      "jaldi",
+      "arey",
+      "theek",
+      "vastanu",
+      "idea",
+      "raha",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 205,
+    "sentence": "pannuren ippudu kal result seri venum undi",
+    "tokens": [
+      "pannuren",
+      "ippudu",
+      "kal",
+      "result",
+      "seri",
+      "venum",
+      "undi"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 206,
+    "sentence": "cheppanu pannuren plan irukku idhu seri mera undi 😂",
+    "tokens": [
+      "cheppanu",
+      "pannuren",
+      "plan",
+      "irukku",
+      "idhu",
+      "seri",
+      "mera",
+      "undi",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 207,
+    "sentence": "theek code naan chesa chala chala 😅",
+    "tokens": [
+      "theek",
+      "code",
+      "naan",
+      "chesa",
+      "chala",
+      "chala",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 208,
+    "sentence": "kyun dei class mera illa bhai naan bolo irukku task",
+    "tokens": [
+      "kyun",
+      "dei",
+      "class",
+      "mera",
+      "illa",
+      "bhai",
+      "naan",
+      "bolo",
+      "irukku",
+      "task"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 209,
+    "sentence": "illa irukku ippudu tum hai code undi arey illa nahi",
+    "tokens": [
+      "illa",
+      "irukku",
+      "ippudu",
+      "tum",
+      "hai",
+      "code",
+      "undi",
+      "arey",
+      "illa",
+      "nahi"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 210,
+    "sentence": "data cheppanu kya idhu vastanu nenu cheppanu unna romba",
+    "tokens": [
+      "data",
+      "cheppanu",
+      "kya",
+      "idhu",
+      "vastanu",
+      "nenu",
+      "cheppanu",
+      "unna",
+      "romba"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 211,
+    "sentence": "pannuren romba raha ippudu dei dei cheppanu project",
+    "tokens": [
+      "pannuren",
+      "romba",
+      "raha",
+      "ippudu",
+      "dei",
+      "dei",
+      "cheppanu",
+      "project"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 212,
+    "sentence": "nenu bolo ledu hai theek idhu",
+    "tokens": [
+      "nenu",
+      "bolo",
+      "ledu",
+      "hai",
+      "theek",
+      "idhu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 213,
+    "sentence": "system bug mera pannuren raha nahi 😅",
+    "tokens": [
+      "system",
+      "bug",
+      "mera",
+      "pannuren",
+      "raha",
+      "nahi",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 214,
+    "sentence": "mera inka mera avuthundi bug jaldi irukku project bug kya",
+    "tokens": [
+      "mera",
+      "inka",
+      "mera",
+      "avuthundi",
+      "bug",
+      "jaldi",
+      "irukku",
+      "project",
+      "bug",
+      "kya"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 215,
+    "sentence": "bolo tum seri update venum romba task raha",
+    "tokens": [
+      "bolo",
+      "tum",
+      "seri",
+      "update",
+      "venum",
+      "romba",
+      "task",
+      "raha"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 216,
+    "sentence": "romba idhu chesa cheppanu idhu mera naan 🔥",
+    "tokens": [
+      "romba",
+      "idhu",
+      "chesa",
+      "cheppanu",
+      "idhu",
+      "mera",
+      "naan",
+      "🔥"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 217,
+    "sentence": "aaguthu cheyyi illa romba arey unna jaldi chesa 🤦",
+    "tokens": [
+      "aaguthu",
+      "cheyyi",
+      "illa",
+      "romba",
+      "arey",
+      "unna",
+      "jaldi",
+      "chesa",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 218,
+    "sentence": "plan cheppanu kyun cheppanu ledu raha naan chesa",
+    "tokens": [
+      "plan",
+      "cheppanu",
+      "kyun",
+      "cheppanu",
+      "ledu",
+      "raha",
+      "naan",
+      "chesa"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 219,
+    "sentence": "arey kal data kar illa avuthundi project venum cheyyi bolo 😑",
+    "tokens": [
+      "arey",
+      "kal",
+      "data",
+      "kar",
+      "illa",
+      "avuthundi",
+      "project",
+      "venum",
+      "cheyyi",
+      "bolo",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 220,
+    "sentence": "seri chesa update system irukku illa",
+    "tokens": [
+      "seri",
+      "chesa",
+      "update",
+      "system",
+      "irukku",
+      "illa"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 221,
+    "sentence": "romba chesa seri theek today idhu inka unna kal kar 😍",
+    "tokens": [
+      "romba",
+      "chesa",
+      "seri",
+      "theek",
+      "today",
+      "idhu",
+      "inka",
+      "unna",
+      "kal",
+      "kar",
+      "😍"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 222,
+    "sentence": "ippudu aaguthu aaguthu cheppanu data bug chesa theek 😑",
+    "tokens": [
+      "ippudu",
+      "aaguthu",
+      "aaguthu",
+      "cheppanu",
+      "data",
+      "bug",
+      "chesa",
+      "theek",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "en",
+      "en",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 223,
+    "sentence": "ledu nuvvu avuthundi kal data venum update data project pannuren 😂",
+    "tokens": [
+      "ledu",
+      "nuvvu",
+      "avuthundi",
+      "kal",
+      "data",
+      "venum",
+      "update",
+      "data",
+      "project",
+      "pannuren",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 224,
+    "sentence": "seri kya theek update kyun system dei hai chesa ippudu",
+    "tokens": [
+      "seri",
+      "kya",
+      "theek",
+      "update",
+      "kyun",
+      "system",
+      "dei",
+      "hai",
+      "chesa",
+      "ippudu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 225,
+    "sentence": "jaldi call cheppanu kyun nenu idhu",
+    "tokens": [
+      "jaldi",
+      "call",
+      "cheppanu",
+      "kyun",
+      "nenu",
+      "idhu"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 226,
+    "sentence": "vastanu cheppanu romba arey meeting ledu",
+    "tokens": [
+      "vastanu",
+      "cheppanu",
+      "romba",
+      "arey",
+      "meeting",
+      "ledu"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 227,
+    "sentence": "update aaguthu pannuren code plan idhu undi",
+    "tokens": [
+      "update",
+      "aaguthu",
+      "pannuren",
+      "code",
+      "plan",
+      "idhu",
+      "undi"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "en",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 228,
+    "sentence": "idhu irukku unna vastanu idhu kal idea jaldi class today 🤦",
+    "tokens": [
+      "idhu",
+      "irukku",
+      "unna",
+      "vastanu",
+      "idhu",
+      "kal",
+      "idea",
+      "jaldi",
+      "class",
+      "today",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 229,
+    "sentence": "irukku system seri work idea idhu ledu bolo cheyyi naan 😍",
+    "tokens": [
+      "irukku",
+      "system",
+      "seri",
+      "work",
+      "idea",
+      "idhu",
+      "ledu",
+      "bolo",
+      "cheyyi",
+      "naan",
+      "😍"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 230,
+    "sentence": "kal romba call ledu venum hai pannuren arey 😂",
+    "tokens": [
+      "kal",
+      "romba",
+      "call",
+      "ledu",
+      "venum",
+      "hai",
+      "pannuren",
+      "arey",
+      "😂"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 231,
+    "sentence": "chala nuvvu unna avuthundi result nahi bhai theek gaya idea",
+    "tokens": [
+      "chala",
+      "nuvvu",
+      "unna",
+      "avuthundi",
+      "result",
+      "nahi",
+      "bhai",
+      "theek",
+      "gaya",
+      "idea"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 232,
+    "sentence": "kya unna today update naan kar work",
+    "tokens": [
+      "kya",
+      "unna",
+      "today",
+      "update",
+      "naan",
+      "kar",
+      "work"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 233,
+    "sentence": "naan system chala data kyun inka tum project kal 😑",
+    "tokens": [
+      "naan",
+      "system",
+      "chala",
+      "data",
+      "kyun",
+      "inka",
+      "tum",
+      "project",
+      "kal",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 234,
+    "sentence": "naan result idhu call seri vastanu",
+    "tokens": [
+      "naan",
+      "result",
+      "idhu",
+      "call",
+      "seri",
+      "vastanu"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 235,
+    "sentence": "bhai chesa project ledu work ledu seri vastanu jaldi fix",
+    "tokens": [
+      "bhai",
+      "chesa",
+      "project",
+      "ledu",
+      "work",
+      "ledu",
+      "seri",
+      "vastanu",
+      "jaldi",
+      "fix"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 236,
+    "sentence": "gaya call irukku venum idhu dei bhai avuthundi",
+    "tokens": [
+      "gaya",
+      "call",
+      "irukku",
+      "venum",
+      "idhu",
+      "dei",
+      "bhai",
+      "avuthundi"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 237,
+    "sentence": "unna project vastanu romba kar ledu chesa 😓",
+    "tokens": [
+      "unna",
+      "project",
+      "vastanu",
+      "romba",
+      "kar",
+      "ledu",
+      "chesa",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 238,
+    "sentence": "update illa plan task ippudu romba",
+    "tokens": [
+      "update",
+      "illa",
+      "plan",
+      "task",
+      "ippudu",
+      "romba"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 239,
+    "sentence": "irukku unna theek bolo class update arey dei theek",
+    "tokens": [
+      "irukku",
+      "unna",
+      "theek",
+      "bolo",
+      "class",
+      "update",
+      "arey",
+      "dei",
+      "theek"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 240,
+    "sentence": "result result aaguthu meeting data system",
+    "tokens": [
+      "result",
+      "result",
+      "aaguthu",
+      "meeting",
+      "data",
+      "system"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 241,
+    "sentence": "arey raha ledu irukku work cheppanu nahi kyun project 😂",
+    "tokens": [
+      "arey",
+      "raha",
+      "ledu",
+      "irukku",
+      "work",
+      "cheppanu",
+      "nahi",
+      "kyun",
+      "project",
+      "😂"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 242,
+    "sentence": "dei tum unna hai inka kar",
+    "tokens": [
+      "dei",
+      "tum",
+      "unna",
+      "hai",
+      "inka",
+      "kar"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 243,
+    "sentence": "result theek nahi gaya system unna pannuren dei system naan",
+    "tokens": [
+      "result",
+      "theek",
+      "nahi",
+      "gaya",
+      "system",
+      "unna",
+      "pannuren",
+      "dei",
+      "system",
+      "naan"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 244,
+    "sentence": "seri undi ledu theek avuthundi aaguthu mera hai nuvvu",
+    "tokens": [
+      "seri",
+      "undi",
+      "ledu",
+      "theek",
+      "avuthundi",
+      "aaguthu",
+      "mera",
+      "hai",
+      "nuvvu"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 245,
+    "sentence": "task chala gaya illa idea cheppanu today ippudu cheyyi nahi",
+    "tokens": [
+      "task",
+      "chala",
+      "gaya",
+      "illa",
+      "idea",
+      "cheppanu",
+      "today",
+      "ippudu",
+      "cheyyi",
+      "nahi"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "en",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 246,
+    "sentence": "aaguthu fix nahi system dei ledu nuvvu 🤦",
+    "tokens": [
+      "aaguthu",
+      "fix",
+      "nahi",
+      "system",
+      "dei",
+      "ledu",
+      "nuvvu",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 247,
+    "sentence": "cheyyi chesa idhu fix class bhai ippudu dei romba bug 😑",
+    "tokens": [
+      "cheyyi",
+      "chesa",
+      "idhu",
+      "fix",
+      "class",
+      "bhai",
+      "ippudu",
+      "dei",
+      "romba",
+      "bug",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 248,
+    "sentence": "romba ledu bug chala inka raha fix avuthundi kar gaya 😍",
+    "tokens": [
+      "romba",
+      "ledu",
+      "bug",
+      "chala",
+      "inka",
+      "raha",
+      "fix",
+      "avuthundi",
+      "kar",
+      "gaya",
+      "😍"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 249,
+    "sentence": "idhu today ledu bolo raha nahi chala idhu arey",
+    "tokens": [
+      "idhu",
+      "today",
+      "ledu",
+      "bolo",
+      "raha",
+      "nahi",
+      "chala",
+      "idhu",
+      "arey"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 250,
+    "sentence": "inka kya venum ippudu work irukku undi",
+    "tokens": [
+      "inka",
+      "kya",
+      "venum",
+      "ippudu",
+      "work",
+      "irukku",
+      "undi"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 251,
+    "sentence": "nenu chesa call chesa avuthundi result ledu nahi 😅",
+    "tokens": [
+      "nenu",
+      "chesa",
+      "call",
+      "chesa",
+      "avuthundi",
+      "result",
+      "ledu",
+      "nahi",
+      "😅"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "te",
+      "te",
+      "en",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 252,
+    "sentence": "jaldi seri ippudu dei class unna",
+    "tokens": [
+      "jaldi",
+      "seri",
+      "ippudu",
+      "dei",
+      "class",
+      "unna"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 253,
+    "sentence": "jaldi kal work nenu romba naan",
+    "tokens": [
+      "jaldi",
+      "kal",
+      "work",
+      "nenu",
+      "romba",
+      "naan"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 254,
+    "sentence": "nahi cheppanu romba plan ippudu fix tum idhu result update 😅",
+    "tokens": [
+      "nahi",
+      "cheppanu",
+      "romba",
+      "plan",
+      "ippudu",
+      "fix",
+      "tum",
+      "idhu",
+      "result",
+      "update",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 255,
+    "sentence": "chala mera naan idhu theek seri 🤦",
+    "tokens": [
+      "chala",
+      "mera",
+      "naan",
+      "idhu",
+      "theek",
+      "seri",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 256,
+    "sentence": "today nuvvu result ippudu pannuren irukku ippudu kar",
+    "tokens": [
+      "today",
+      "nuvvu",
+      "result",
+      "ippudu",
+      "pannuren",
+      "irukku",
+      "ippudu",
+      "kar"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 257,
+    "sentence": "idea dei project chesa naan bug",
+    "tokens": [
+      "idea",
+      "dei",
+      "project",
+      "chesa",
+      "naan",
+      "bug"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 258,
+    "sentence": "gaya pannuren bug hai system idhu",
+    "tokens": [
+      "gaya",
+      "pannuren",
+      "bug",
+      "hai",
+      "system",
+      "idhu"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 259,
+    "sentence": "call work code undi cheyyi today nenu irukku data",
+    "tokens": [
+      "call",
+      "work",
+      "code",
+      "undi",
+      "cheyyi",
+      "today",
+      "nenu",
+      "irukku",
+      "data"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "te",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 260,
+    "sentence": "cheppanu hai undi theek illa undi ledu",
+    "tokens": [
+      "cheppanu",
+      "hai",
+      "undi",
+      "theek",
+      "illa",
+      "undi",
+      "ledu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 261,
+    "sentence": "nenu idea venum aaguthu tum jaldi naan",
+    "tokens": [
+      "nenu",
+      "idea",
+      "venum",
+      "aaguthu",
+      "tum",
+      "jaldi",
+      "naan"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 262,
+    "sentence": "plan aaguthu cheyyi vastanu data nuvvu",
+    "tokens": [
+      "plan",
+      "aaguthu",
+      "cheyyi",
+      "vastanu",
+      "data",
+      "nuvvu"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 263,
+    "sentence": "cheyyi cheyyi idhu romba dei update romba illa",
+    "tokens": [
+      "cheyyi",
+      "cheyyi",
+      "idhu",
+      "romba",
+      "dei",
+      "update",
+      "romba",
+      "illa"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 264,
+    "sentence": "nenu bhai aaguthu bolo naan nuvvu today irukku 😂",
+    "tokens": [
+      "nenu",
+      "bhai",
+      "aaguthu",
+      "bolo",
+      "naan",
+      "nuvvu",
+      "today",
+      "irukku",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 265,
+    "sentence": "call pannuren illa avuthundi bolo meeting result cheyyi work undi 😓",
+    "tokens": [
+      "call",
+      "pannuren",
+      "illa",
+      "avuthundi",
+      "bolo",
+      "meeting",
+      "result",
+      "cheyyi",
+      "work",
+      "undi",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 266,
+    "sentence": "seri venum hai ledu naan venum pannuren idhu 🔥",
+    "tokens": [
+      "seri",
+      "venum",
+      "hai",
+      "ledu",
+      "naan",
+      "venum",
+      "pannuren",
+      "idhu",
+      "🔥"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 267,
+    "sentence": "theek meeting theek bolo raha nenu pannuren 😅",
+    "tokens": [
+      "theek",
+      "meeting",
+      "theek",
+      "bolo",
+      "raha",
+      "nenu",
+      "pannuren",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 268,
+    "sentence": "romba kal venum mera plan kal nenu kal 😑",
+    "tokens": [
+      "romba",
+      "kal",
+      "venum",
+      "mera",
+      "plan",
+      "kal",
+      "nenu",
+      "kal",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 269,
+    "sentence": "project romba undi venum ledu nuvvu kya",
+    "tokens": [
+      "project",
+      "romba",
+      "undi",
+      "venum",
+      "ledu",
+      "nuvvu",
+      "kya"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 270,
+    "sentence": "seri kyun dei cheppanu avuthundi unna illa bhai 😑",
+    "tokens": [
+      "seri",
+      "kyun",
+      "dei",
+      "cheppanu",
+      "avuthundi",
+      "unna",
+      "illa",
+      "bhai",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 271,
+    "sentence": "cheppanu kyun seri code nenu vastanu avuthundi arey aaguthu",
+    "tokens": [
+      "cheppanu",
+      "kyun",
+      "seri",
+      "code",
+      "nenu",
+      "vastanu",
+      "avuthundi",
+      "arey",
+      "aaguthu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 272,
+    "sentence": "gaya today ledu jaldi hai kya avuthundi ledu 😑",
+    "tokens": [
+      "gaya",
+      "today",
+      "ledu",
+      "jaldi",
+      "hai",
+      "kya",
+      "avuthundi",
+      "ledu",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 273,
+    "sentence": "code tum romba tum ledu class undi pannuren task plan 😅",
+    "tokens": [
+      "code",
+      "tum",
+      "romba",
+      "tum",
+      "ledu",
+      "class",
+      "undi",
+      "pannuren",
+      "task",
+      "plan",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "ta",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 274,
+    "sentence": "plan update task avuthundi task fix bug",
+    "tokens": [
+      "plan",
+      "update",
+      "task",
+      "avuthundi",
+      "task",
+      "fix",
+      "bug"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "te",
+      "en",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 275,
+    "sentence": "gaya bolo ippudu idhu romba arey update 🤦",
+    "tokens": [
+      "gaya",
+      "bolo",
+      "ippudu",
+      "idhu",
+      "romba",
+      "arey",
+      "update",
+      "🤦"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 276,
+    "sentence": "venum bug data tum project idhu tum",
+    "tokens": [
+      "venum",
+      "bug",
+      "data",
+      "tum",
+      "project",
+      "idhu",
+      "tum"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 277,
+    "sentence": "romba fix arey result idea data 😑",
+    "tokens": [
+      "romba",
+      "fix",
+      "arey",
+      "result",
+      "idea",
+      "data",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 278,
+    "sentence": "theek raha cheppanu mera ledu venum data nahi",
+    "tokens": [
+      "theek",
+      "raha",
+      "cheppanu",
+      "mera",
+      "ledu",
+      "venum",
+      "data",
+      "nahi"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 279,
+    "sentence": "class task kar inka chala inka today",
+    "tokens": [
+      "class",
+      "task",
+      "kar",
+      "inka",
+      "chala",
+      "inka",
+      "today"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 280,
+    "sentence": "irukku mera idea hai project kyun kya",
+    "tokens": [
+      "irukku",
+      "mera",
+      "idea",
+      "hai",
+      "project",
+      "kyun",
+      "kya"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 281,
+    "sentence": "work venum gaya kya kar idhu 😅",
+    "tokens": [
+      "work",
+      "venum",
+      "gaya",
+      "kya",
+      "kar",
+      "idhu",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 282,
+    "sentence": "kyun aaguthu system illa vastanu mera bhai code idhu",
+    "tokens": [
+      "kyun",
+      "aaguthu",
+      "system",
+      "illa",
+      "vastanu",
+      "mera",
+      "bhai",
+      "code",
+      "idhu"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 283,
+    "sentence": "plan chala update system romba kyun 🔥",
+    "tokens": [
+      "plan",
+      "chala",
+      "update",
+      "system",
+      "romba",
+      "kyun",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 284,
+    "sentence": "fix ledu work arey nuvvu mera work 😅",
+    "tokens": [
+      "fix",
+      "ledu",
+      "work",
+      "arey",
+      "nuvvu",
+      "mera",
+      "work",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 285,
+    "sentence": "kal vastanu task gaya nahi work",
+    "tokens": [
+      "kal",
+      "vastanu",
+      "task",
+      "gaya",
+      "nahi",
+      "work"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 286,
+    "sentence": "tum unna dei inka chesa illa idea bhai",
+    "tokens": [
+      "tum",
+      "unna",
+      "dei",
+      "inka",
+      "chesa",
+      "illa",
+      "idea",
+      "bhai"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 287,
+    "sentence": "romba plan kyun idea chesa undi mera chala nahi",
+    "tokens": [
+      "romba",
+      "plan",
+      "kyun",
+      "idea",
+      "chesa",
+      "undi",
+      "mera",
+      "chala",
+      "nahi"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 288,
+    "sentence": "call task undi gaya update system call",
+    "tokens": [
+      "call",
+      "task",
+      "undi",
+      "gaya",
+      "update",
+      "system",
+      "call"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 289,
+    "sentence": "venum ippudu inka nahi inka meeting ippudu",
+    "tokens": [
+      "venum",
+      "ippudu",
+      "inka",
+      "nahi",
+      "inka",
+      "meeting",
+      "ippudu"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 290,
+    "sentence": "naan seri seri raha call today",
+    "tokens": [
+      "naan",
+      "seri",
+      "seri",
+      "raha",
+      "call",
+      "today"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 291,
+    "sentence": "ippudu gaya undi unna venum unna seri",
+    "tokens": [
+      "ippudu",
+      "gaya",
+      "undi",
+      "unna",
+      "venum",
+      "unna",
+      "seri"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 292,
+    "sentence": "gaya kar jaldi idea raha romba 😓",
+    "tokens": [
+      "gaya",
+      "kar",
+      "jaldi",
+      "idea",
+      "raha",
+      "romba",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 293,
+    "sentence": "venum meeting pannuren dei naan cheppanu jaldi",
+    "tokens": [
+      "venum",
+      "meeting",
+      "pannuren",
+      "dei",
+      "naan",
+      "cheppanu",
+      "jaldi"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 294,
+    "sentence": "romba bolo jaldi arey nuvvu code",
+    "tokens": [
+      "romba",
+      "bolo",
+      "jaldi",
+      "arey",
+      "nuvvu",
+      "code"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 295,
+    "sentence": "bug undi project gaya nenu ippudu ledu illa",
+    "tokens": [
+      "bug",
+      "undi",
+      "project",
+      "gaya",
+      "nenu",
+      "ippudu",
+      "ledu",
+      "illa"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 296,
+    "sentence": "jaldi naan ippudu naan jaldi data gaya system chesa illa",
+    "tokens": [
+      "jaldi",
+      "naan",
+      "ippudu",
+      "naan",
+      "jaldi",
+      "data",
+      "gaya",
+      "system",
+      "chesa",
+      "illa"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 297,
+    "sentence": "today irukku chala ippudu irukku naan tum vastanu 😓",
+    "tokens": [
+      "today",
+      "irukku",
+      "chala",
+      "ippudu",
+      "irukku",
+      "naan",
+      "tum",
+      "vastanu",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 298,
+    "sentence": "nuvvu bolo project naan unna task bhai naan",
+    "tokens": [
+      "nuvvu",
+      "bolo",
+      "project",
+      "naan",
+      "unna",
+      "task",
+      "bhai",
+      "naan"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 299,
+    "sentence": "seri task kar seri pannuren mera work kya meeting jaldi 😂",
+    "tokens": [
+      "seri",
+      "task",
+      "kar",
+      "seri",
+      "pannuren",
+      "mera",
+      "work",
+      "kya",
+      "meeting",
+      "jaldi",
+      "😂"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 300,
+    "sentence": "hai result seri nahi chesa chesa raha cheyyi arey kya",
+    "tokens": [
+      "hai",
+      "result",
+      "seri",
+      "nahi",
+      "chesa",
+      "chesa",
+      "raha",
+      "cheyyi",
+      "arey",
+      "kya"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 301,
+    "sentence": "data bhai raha vastanu unna project",
+    "tokens": [
+      "data",
+      "bhai",
+      "raha",
+      "vastanu",
+      "unna",
+      "project"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 302,
+    "sentence": "ippudu seri illa nahi meeting romba aaguthu pannuren",
+    "tokens": [
+      "ippudu",
+      "seri",
+      "illa",
+      "nahi",
+      "meeting",
+      "romba",
+      "aaguthu",
+      "pannuren"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 303,
+    "sentence": "chesa vastanu romba irukku nuvvu gaya pannuren idhu nenu kya",
+    "tokens": [
+      "chesa",
+      "vastanu",
+      "romba",
+      "irukku",
+      "nuvvu",
+      "gaya",
+      "pannuren",
+      "idhu",
+      "nenu",
+      "kya"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 304,
+    "sentence": "task naan work pannuren chala kya vastanu",
+    "tokens": [
+      "task",
+      "naan",
+      "work",
+      "pannuren",
+      "chala",
+      "kya",
+      "vastanu"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 305,
+    "sentence": "seri meeting bhai nahi kya inka jaldi pannuren bolo",
+    "tokens": [
+      "seri",
+      "meeting",
+      "bhai",
+      "nahi",
+      "kya",
+      "inka",
+      "jaldi",
+      "pannuren",
+      "bolo"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 306,
+    "sentence": "pannuren meeting arey irukku chesa pannuren system bolo",
+    "tokens": [
+      "pannuren",
+      "meeting",
+      "arey",
+      "irukku",
+      "chesa",
+      "pannuren",
+      "system",
+      "bolo"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 307,
+    "sentence": "avuthundi cheyyi theek mera inka inka bolo cheppanu",
+    "tokens": [
+      "avuthundi",
+      "cheyyi",
+      "theek",
+      "mera",
+      "inka",
+      "inka",
+      "bolo",
+      "cheppanu"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 308,
+    "sentence": "task today tum today inka seri 😅",
+    "tokens": [
+      "task",
+      "today",
+      "tum",
+      "today",
+      "inka",
+      "seri",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 309,
+    "sentence": "class kar bhai result kya project",
+    "tokens": [
+      "class",
+      "kar",
+      "bhai",
+      "result",
+      "kya",
+      "project"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 310,
+    "sentence": "idhu theek arey aaguthu fix hai",
+    "tokens": [
+      "idhu",
+      "theek",
+      "arey",
+      "aaguthu",
+      "fix",
+      "hai"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 311,
+    "sentence": "pannuren bhai naan romba illa bolo arey nenu today chesa 😂",
+    "tokens": [
+      "pannuren",
+      "bhai",
+      "naan",
+      "romba",
+      "illa",
+      "bolo",
+      "arey",
+      "nenu",
+      "today",
+      "chesa",
+      "😂"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 312,
+    "sentence": "chesa dei meeting kyun aaguthu update jaldi vastanu aaguthu",
+    "tokens": [
+      "chesa",
+      "dei",
+      "meeting",
+      "kyun",
+      "aaguthu",
+      "update",
+      "jaldi",
+      "vastanu",
+      "aaguthu"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 313,
+    "sentence": "nenu task vastanu jaldi bolo hai cheppanu idhu result call",
+    "tokens": [
+      "nenu",
+      "task",
+      "vastanu",
+      "jaldi",
+      "bolo",
+      "hai",
+      "cheppanu",
+      "idhu",
+      "result",
+      "call"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 314,
+    "sentence": "code kya seri fix kyun irukku kya kar 😂",
+    "tokens": [
+      "code",
+      "kya",
+      "seri",
+      "fix",
+      "kyun",
+      "irukku",
+      "kya",
+      "kar",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 315,
+    "sentence": "ledu update ledu nuvvu kar bhai call meeting pannuren idea 🤦",
+    "tokens": [
+      "ledu",
+      "update",
+      "ledu",
+      "nuvvu",
+      "kar",
+      "bhai",
+      "call",
+      "meeting",
+      "pannuren",
+      "idea",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 316,
+    "sentence": "bug jaldi task bug cheppanu ippudu undi tum work cheyyi",
+    "tokens": [
+      "bug",
+      "jaldi",
+      "task",
+      "bug",
+      "cheppanu",
+      "ippudu",
+      "undi",
+      "tum",
+      "work",
+      "cheyyi"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 317,
+    "sentence": "nenu venum task gaya undi data task",
+    "tokens": [
+      "nenu",
+      "venum",
+      "task",
+      "gaya",
+      "undi",
+      "data",
+      "task"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 318,
+    "sentence": "mera kal nenu pannuren naan class",
+    "tokens": [
+      "mera",
+      "kal",
+      "nenu",
+      "pannuren",
+      "naan",
+      "class"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 319,
+    "sentence": "raha venum unna hai seri aaguthu inka pannuren 🔥",
+    "tokens": [
+      "raha",
+      "venum",
+      "unna",
+      "hai",
+      "seri",
+      "aaguthu",
+      "inka",
+      "pannuren",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 320,
+    "sentence": "romba gaya nenu cheyyi vastanu idhu",
+    "tokens": [
+      "romba",
+      "gaya",
+      "nenu",
+      "cheyyi",
+      "vastanu",
+      "idhu"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "te",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 321,
+    "sentence": "aaguthu romba romba kar kar seri",
+    "tokens": [
+      "aaguthu",
+      "romba",
+      "romba",
+      "kar",
+      "kar",
+      "seri"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 322,
+    "sentence": "inka chala raha meeting illa today aaguthu 🤦",
+    "tokens": [
+      "inka",
+      "chala",
+      "raha",
+      "meeting",
+      "illa",
+      "today",
+      "aaguthu",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 323,
+    "sentence": "tum illa vastanu kyun fix nenu 😓",
+    "tokens": [
+      "tum",
+      "illa",
+      "vastanu",
+      "kyun",
+      "fix",
+      "nenu",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 324,
+    "sentence": "chesa kal illa vastanu hai project",
+    "tokens": [
+      "chesa",
+      "kal",
+      "illa",
+      "vastanu",
+      "hai",
+      "project"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 325,
+    "sentence": "nahi idea update chesa irukku nahi kar chesa",
+    "tokens": [
+      "nahi",
+      "idea",
+      "update",
+      "chesa",
+      "irukku",
+      "nahi",
+      "kar",
+      "chesa"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 326,
+    "sentence": "kal cheyyi nuvvu class kal result bolo",
+    "tokens": [
+      "kal",
+      "cheyyi",
+      "nuvvu",
+      "class",
+      "kal",
+      "result",
+      "bolo"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 327,
+    "sentence": "seri idea ledu irukku theek venum nuvvu result meeting",
+    "tokens": [
+      "seri",
+      "idea",
+      "ledu",
+      "irukku",
+      "theek",
+      "venum",
+      "nuvvu",
+      "result",
+      "meeting"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 328,
+    "sentence": "result kyun unna project code seri class theek",
+    "tokens": [
+      "result",
+      "kyun",
+      "unna",
+      "project",
+      "code",
+      "seri",
+      "class",
+      "theek"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 329,
+    "sentence": "nenu system romba bolo tum romba undi 😓",
+    "tokens": [
+      "nenu",
+      "system",
+      "romba",
+      "bolo",
+      "tum",
+      "romba",
+      "undi",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 330,
+    "sentence": "avuthundi raha idhu task illa unna venum aaguthu 🔥",
+    "tokens": [
+      "avuthundi",
+      "raha",
+      "idhu",
+      "task",
+      "illa",
+      "unna",
+      "venum",
+      "aaguthu",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 331,
+    "sentence": "undi dei kyun call irukku kyun vastanu chala nuvvu",
+    "tokens": [
+      "undi",
+      "dei",
+      "kyun",
+      "call",
+      "irukku",
+      "kyun",
+      "vastanu",
+      "chala",
+      "nuvvu"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "te",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 332,
+    "sentence": "illa call undi venum irukku chesa romba bhai idea",
+    "tokens": [
+      "illa",
+      "call",
+      "undi",
+      "venum",
+      "irukku",
+      "chesa",
+      "romba",
+      "bhai",
+      "idea"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 333,
+    "sentence": "system kar plan inka pannuren ledu ippudu irukku nahi nenu 😓",
+    "tokens": [
+      "system",
+      "kar",
+      "plan",
+      "inka",
+      "pannuren",
+      "ledu",
+      "ippudu",
+      "irukku",
+      "nahi",
+      "nenu",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 334,
+    "sentence": "system seri illa theek class undi code romba code aaguthu 😂",
+    "tokens": [
+      "system",
+      "seri",
+      "illa",
+      "theek",
+      "class",
+      "undi",
+      "code",
+      "romba",
+      "code",
+      "aaguthu",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 335,
+    "sentence": "system mera nahi nahi naan kar undi class",
+    "tokens": [
+      "system",
+      "mera",
+      "nahi",
+      "nahi",
+      "naan",
+      "kar",
+      "undi",
+      "class"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 336,
+    "sentence": "kar idea fix venum aaguthu avuthundi code 🔥",
+    "tokens": [
+      "kar",
+      "idea",
+      "fix",
+      "venum",
+      "aaguthu",
+      "avuthundi",
+      "code",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 337,
+    "sentence": "kya update meeting kyun class class romba nuvvu tum",
+    "tokens": [
+      "kya",
+      "update",
+      "meeting",
+      "kyun",
+      "class",
+      "class",
+      "romba",
+      "nuvvu",
+      "tum"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 338,
+    "sentence": "fix gaya tum bolo kyun theek",
+    "tokens": [
+      "fix",
+      "gaya",
+      "tum",
+      "bolo",
+      "kyun",
+      "theek"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 339,
+    "sentence": "bug call class arey kya bug idhu 🔥",
+    "tokens": [
+      "bug",
+      "call",
+      "class",
+      "arey",
+      "kya",
+      "bug",
+      "idhu",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 340,
+    "sentence": "plan romba idhu mera aaguthu bhai naan cheppanu inka",
+    "tokens": [
+      "plan",
+      "romba",
+      "idhu",
+      "mera",
+      "aaguthu",
+      "bhai",
+      "naan",
+      "cheppanu",
+      "inka"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 341,
+    "sentence": "idea task hai update ippudu irukku dei",
+    "tokens": [
+      "idea",
+      "task",
+      "hai",
+      "update",
+      "ippudu",
+      "irukku",
+      "dei"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 342,
+    "sentence": "chala kar cheyyi gaya kyun arey 😍",
+    "tokens": [
+      "chala",
+      "kar",
+      "cheyyi",
+      "gaya",
+      "kyun",
+      "arey",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 343,
+    "sentence": "chala tum update kya vastanu plan dei system result data 😅",
+    "tokens": [
+      "chala",
+      "tum",
+      "update",
+      "kya",
+      "vastanu",
+      "plan",
+      "dei",
+      "system",
+      "result",
+      "data",
+      "😅"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 344,
+    "sentence": "vastanu gaya kyun bhai today kya vastanu call venum undi 😍",
+    "tokens": [
+      "vastanu",
+      "gaya",
+      "kyun",
+      "bhai",
+      "today",
+      "kya",
+      "vastanu",
+      "call",
+      "venum",
+      "undi",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 345,
+    "sentence": "nenu illa tum ippudu mera kal arey",
+    "tokens": [
+      "nenu",
+      "illa",
+      "tum",
+      "ippudu",
+      "mera",
+      "kal",
+      "arey"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 346,
+    "sentence": "kar vastanu class kyun chesa plan code mera project",
+    "tokens": [
+      "kar",
+      "vastanu",
+      "class",
+      "kyun",
+      "chesa",
+      "plan",
+      "code",
+      "mera",
+      "project"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 347,
+    "sentence": "work chesa work kya aaguthu bhai arey meeting raha kar",
+    "tokens": [
+      "work",
+      "chesa",
+      "work",
+      "kya",
+      "aaguthu",
+      "bhai",
+      "arey",
+      "meeting",
+      "raha",
+      "kar"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 348,
+    "sentence": "undi code ledu aaguthu nahi nuvvu 😍",
+    "tokens": [
+      "undi",
+      "code",
+      "ledu",
+      "aaguthu",
+      "nahi",
+      "nuvvu",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 349,
+    "sentence": "bhai kar update illa romba vastanu aaguthu hai",
+    "tokens": [
+      "bhai",
+      "kar",
+      "update",
+      "illa",
+      "romba",
+      "vastanu",
+      "aaguthu",
+      "hai"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 350,
+    "sentence": "avuthundi meeting venum raha system irukku venum naan irukku",
+    "tokens": [
+      "avuthundi",
+      "meeting",
+      "venum",
+      "raha",
+      "system",
+      "irukku",
+      "venum",
+      "naan",
+      "irukku"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 351,
+    "sentence": "nuvvu venum nahi irukku vastanu fix nuvvu class 🔥",
+    "tokens": [
+      "nuvvu",
+      "venum",
+      "nahi",
+      "irukku",
+      "vastanu",
+      "fix",
+      "nuvvu",
+      "class",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 352,
+    "sentence": "irukku nenu idea kar raha cheyyi idea 🤦",
+    "tokens": [
+      "irukku",
+      "nenu",
+      "idea",
+      "kar",
+      "raha",
+      "cheyyi",
+      "idea",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 353,
+    "sentence": "kar avuthundi bhai chala nuvvu romba result illa naan",
+    "tokens": [
+      "kar",
+      "avuthundi",
+      "bhai",
+      "chala",
+      "nuvvu",
+      "romba",
+      "result",
+      "illa",
+      "naan"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 354,
+    "sentence": "avuthundi plan seri aaguthu ledu chesa",
+    "tokens": [
+      "avuthundi",
+      "plan",
+      "seri",
+      "aaguthu",
+      "ledu",
+      "chesa"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 355,
+    "sentence": "mera fix nuvvu mera venum aaguthu ippudu",
+    "tokens": [
+      "mera",
+      "fix",
+      "nuvvu",
+      "mera",
+      "venum",
+      "aaguthu",
+      "ippudu"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 356,
+    "sentence": "today pannuren undi romba plan code bhai system",
+    "tokens": [
+      "today",
+      "pannuren",
+      "undi",
+      "romba",
+      "plan",
+      "code",
+      "bhai",
+      "system"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 357,
+    "sentence": "inka data idhu fix seri code mera theek irukku idea 🤦",
+    "tokens": [
+      "inka",
+      "data",
+      "idhu",
+      "fix",
+      "seri",
+      "code",
+      "mera",
+      "theek",
+      "irukku",
+      "idea",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 358,
+    "sentence": "undi tum task theek chala project system naan gaya nenu",
+    "tokens": [
+      "undi",
+      "tum",
+      "task",
+      "theek",
+      "chala",
+      "project",
+      "system",
+      "naan",
+      "gaya",
+      "nenu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "ta",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 359,
+    "sentence": "idhu unna kya seri project today kal kal bhai",
+    "tokens": [
+      "idhu",
+      "unna",
+      "kya",
+      "seri",
+      "project",
+      "today",
+      "kal",
+      "kal",
+      "bhai"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 360,
+    "sentence": "task result nuvvu work chesa jaldi 😓",
+    "tokens": [
+      "task",
+      "result",
+      "nuvvu",
+      "work",
+      "chesa",
+      "jaldi",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "te",
+      "en",
+      "te",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 361,
+    "sentence": "cheppanu system jaldi update ippudu bolo aaguthu pannuren naan kal",
+    "tokens": [
+      "cheppanu",
+      "system",
+      "jaldi",
+      "update",
+      "ippudu",
+      "bolo",
+      "aaguthu",
+      "pannuren",
+      "naan",
+      "kal"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 362,
+    "sentence": "bug naan mera update kya unna nuvvu 😓",
+    "tokens": [
+      "bug",
+      "naan",
+      "mera",
+      "update",
+      "kya",
+      "unna",
+      "nuvvu",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 363,
+    "sentence": "irukku idhu fix fix inka seri pannuren",
+    "tokens": [
+      "irukku",
+      "idhu",
+      "fix",
+      "fix",
+      "inka",
+      "seri",
+      "pannuren"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 364,
+    "sentence": "kal cheyyi call venum naan inka chesa pannuren plan 😅",
+    "tokens": [
+      "kal",
+      "cheyyi",
+      "call",
+      "venum",
+      "naan",
+      "inka",
+      "chesa",
+      "pannuren",
+      "plan",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 365,
+    "sentence": "meeting arey pannuren illa chesa theek",
+    "tokens": [
+      "meeting",
+      "arey",
+      "pannuren",
+      "illa",
+      "chesa",
+      "theek"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 366,
+    "sentence": "ippudu kyun dei raha pannuren class undi update work",
+    "tokens": [
+      "ippudu",
+      "kyun",
+      "dei",
+      "raha",
+      "pannuren",
+      "class",
+      "undi",
+      "update",
+      "work"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 367,
+    "sentence": "bug fix kya bhai naan unna",
+    "tokens": [
+      "bug",
+      "fix",
+      "kya",
+      "bhai",
+      "naan",
+      "unna"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 368,
+    "sentence": "arey class vastanu bhai cheyyi class ledu fix mera meeting 😍",
+    "tokens": [
+      "arey",
+      "class",
+      "vastanu",
+      "bhai",
+      "cheyyi",
+      "class",
+      "ledu",
+      "fix",
+      "mera",
+      "meeting",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 369,
+    "sentence": "romba ippudu result tum hai seri update naan data",
+    "tokens": [
+      "romba",
+      "ippudu",
+      "result",
+      "tum",
+      "hai",
+      "seri",
+      "update",
+      "naan",
+      "data"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 370,
+    "sentence": "venum naan hai nuvvu kar data gaya ippudu inka hai",
+    "tokens": [
+      "venum",
+      "naan",
+      "hai",
+      "nuvvu",
+      "kar",
+      "data",
+      "gaya",
+      "ippudu",
+      "inka",
+      "hai"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 371,
+    "sentence": "result venum chesa vastanu raha jaldi result arey 😅",
+    "tokens": [
+      "result",
+      "venum",
+      "chesa",
+      "vastanu",
+      "raha",
+      "jaldi",
+      "result",
+      "arey",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "te",
+      "te",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 372,
+    "sentence": "chesa today arey nuvvu raha aaguthu illa fix 😓",
+    "tokens": [
+      "chesa",
+      "today",
+      "arey",
+      "nuvvu",
+      "raha",
+      "aaguthu",
+      "illa",
+      "fix",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 373,
+    "sentence": "vastanu update idea ippudu ledu gaya seri",
+    "tokens": [
+      "vastanu",
+      "update",
+      "idea",
+      "ippudu",
+      "ledu",
+      "gaya",
+      "seri"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 374,
+    "sentence": "work avuthundi romba ippudu venum irukku mera",
+    "tokens": [
+      "work",
+      "avuthundi",
+      "romba",
+      "ippudu",
+      "venum",
+      "irukku",
+      "mera"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 375,
+    "sentence": "work illa plan class plan cheppanu chesa bolo meeting inka",
+    "tokens": [
+      "work",
+      "illa",
+      "plan",
+      "class",
+      "plan",
+      "cheppanu",
+      "chesa",
+      "bolo",
+      "meeting",
+      "inka"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "en",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "te"
+    ]
+  },
+  {
+    "id": 376,
+    "sentence": "task class code undi kyun pannuren",
+    "tokens": [
+      "task",
+      "class",
+      "code",
+      "undi",
+      "kyun",
+      "pannuren"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "te",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 377,
+    "sentence": "illa nenu fix update chesa idhu chala inka irukku",
+    "tokens": [
+      "illa",
+      "nenu",
+      "fix",
+      "update",
+      "chesa",
+      "idhu",
+      "chala",
+      "inka",
+      "irukku"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 378,
+    "sentence": "today code meeting result inka nahi unna 😅",
+    "tokens": [
+      "today",
+      "code",
+      "meeting",
+      "result",
+      "inka",
+      "nahi",
+      "unna",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 379,
+    "sentence": "dei illa aaguthu tum ledu venum seri aaguthu 😅",
+    "tokens": [
+      "dei",
+      "illa",
+      "aaguthu",
+      "tum",
+      "ledu",
+      "venum",
+      "seri",
+      "aaguthu",
+      "😅"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 380,
+    "sentence": "project kyun kya bolo update kyun pannuren ippudu update 🤦",
+    "tokens": [
+      "project",
+      "kyun",
+      "kya",
+      "bolo",
+      "update",
+      "kyun",
+      "pannuren",
+      "ippudu",
+      "update",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 381,
+    "sentence": "arey nahi venum raha seri raha avuthundi kya seri 😍",
+    "tokens": [
+      "arey",
+      "nahi",
+      "venum",
+      "raha",
+      "seri",
+      "raha",
+      "avuthundi",
+      "kya",
+      "seri",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 382,
+    "sentence": "ledu hai unna kar ledu dei bolo ippudu nuvvu",
+    "tokens": [
+      "ledu",
+      "hai",
+      "unna",
+      "kar",
+      "ledu",
+      "dei",
+      "bolo",
+      "ippudu",
+      "nuvvu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 383,
+    "sentence": "tum kyun nahi romba aaguthu aaguthu",
+    "tokens": [
+      "tum",
+      "kyun",
+      "nahi",
+      "romba",
+      "aaguthu",
+      "aaguthu"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 384,
+    "sentence": "call inka mera seri idhu hai chesa raha project 😅",
+    "tokens": [
+      "call",
+      "inka",
+      "mera",
+      "seri",
+      "idhu",
+      "hai",
+      "chesa",
+      "raha",
+      "project",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 385,
+    "sentence": "cheppanu undi vastanu cheyyi pannuren idhu tum idea 🤦",
+    "tokens": [
+      "cheppanu",
+      "undi",
+      "vastanu",
+      "cheyyi",
+      "pannuren",
+      "idhu",
+      "tum",
+      "idea",
+      "🤦"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 386,
+    "sentence": "arey illa bhai inka task fix 😑",
+    "tokens": [
+      "arey",
+      "illa",
+      "bhai",
+      "inka",
+      "task",
+      "fix",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 387,
+    "sentence": "hai arey idea nuvvu fix ledu vastanu romba",
+    "tokens": [
+      "hai",
+      "arey",
+      "idea",
+      "nuvvu",
+      "fix",
+      "ledu",
+      "vastanu",
+      "romba"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 388,
+    "sentence": "hai nahi code idhu tum naan seri vastanu chesa unna 😑",
+    "tokens": [
+      "hai",
+      "nahi",
+      "code",
+      "idhu",
+      "tum",
+      "naan",
+      "seri",
+      "vastanu",
+      "chesa",
+      "unna",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 389,
+    "sentence": "raha venum kya romba kyun dei bolo unna 😍",
+    "tokens": [
+      "raha",
+      "venum",
+      "kya",
+      "romba",
+      "kyun",
+      "dei",
+      "bolo",
+      "unna",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 390,
+    "sentence": "call call result chala irukku aaguthu 😂",
+    "tokens": [
+      "call",
+      "call",
+      "result",
+      "chala",
+      "irukku",
+      "aaguthu",
+      "😂"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 391,
+    "sentence": "code unna inka kyun ledu nuvvu illa 😅",
+    "tokens": [
+      "code",
+      "unna",
+      "inka",
+      "kyun",
+      "ledu",
+      "nuvvu",
+      "illa",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 392,
+    "sentence": "venum inka cheppanu aaguthu idea unna undi plan theek",
+    "tokens": [
+      "venum",
+      "inka",
+      "cheppanu",
+      "aaguthu",
+      "idea",
+      "unna",
+      "undi",
+      "plan",
+      "theek"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 393,
+    "sentence": "meeting data hai data illa bhai naan 🔥",
+    "tokens": [
+      "meeting",
+      "data",
+      "hai",
+      "data",
+      "illa",
+      "bhai",
+      "naan",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 394,
+    "sentence": "nenu kyun vastanu dei venum aaguthu",
+    "tokens": [
+      "nenu",
+      "kyun",
+      "vastanu",
+      "dei",
+      "venum",
+      "aaguthu"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 395,
+    "sentence": "nahi arey task bhai kal system gaya cheyyi vastanu",
+    "tokens": [
+      "nahi",
+      "arey",
+      "task",
+      "bhai",
+      "kal",
+      "system",
+      "gaya",
+      "cheyyi",
+      "vastanu"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 396,
+    "sentence": "idea ippudu seri aaguthu romba hai dei cheppanu ledu kyun",
+    "tokens": [
+      "idea",
+      "ippudu",
+      "seri",
+      "aaguthu",
+      "romba",
+      "hai",
+      "dei",
+      "cheppanu",
+      "ledu",
+      "kyun"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 397,
+    "sentence": "illa idea raha idhu naan unna ledu meeting romba kal 🤦",
+    "tokens": [
+      "illa",
+      "idea",
+      "raha",
+      "idhu",
+      "naan",
+      "unna",
+      "ledu",
+      "meeting",
+      "romba",
+      "kal",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 398,
+    "sentence": "romba unna naan plan inka kyun nuvvu pannuren 🔥",
+    "tokens": [
+      "romba",
+      "unna",
+      "naan",
+      "plan",
+      "inka",
+      "kyun",
+      "nuvvu",
+      "pannuren",
+      "🔥"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 399,
+    "sentence": "venum tum bolo fix nahi data bhai pannuren",
+    "tokens": [
+      "venum",
+      "tum",
+      "bolo",
+      "fix",
+      "nahi",
+      "data",
+      "bhai",
+      "pannuren"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 400,
+    "sentence": "naan irukku bhai idea cheppanu pannuren ledu irukku",
+    "tokens": [
+      "naan",
+      "irukku",
+      "bhai",
+      "idea",
+      "cheppanu",
+      "pannuren",
+      "ledu",
+      "irukku"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 401,
+    "sentence": "nahi tum ledu data aaguthu romba 😍",
+    "tokens": [
+      "nahi",
+      "tum",
+      "ledu",
+      "data",
+      "aaguthu",
+      "romba",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 402,
+    "sentence": "pannuren task bolo venum chala idhu",
+    "tokens": [
+      "pannuren",
+      "task",
+      "bolo",
+      "venum",
+      "chala",
+      "idhu"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 403,
+    "sentence": "arey nuvvu pannuren idea kal idhu hai nuvvu",
+    "tokens": [
+      "arey",
+      "nuvvu",
+      "pannuren",
+      "idea",
+      "kal",
+      "idhu",
+      "hai",
+      "nuvvu"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 404,
+    "sentence": "bhai cheyyi aaguthu cheyyi bhai inka cheppanu illa unna",
+    "tokens": [
+      "bhai",
+      "cheyyi",
+      "aaguthu",
+      "cheyyi",
+      "bhai",
+      "inka",
+      "cheppanu",
+      "illa",
+      "unna"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 405,
+    "sentence": "inka arey unna class nahi seri",
+    "tokens": [
+      "inka",
+      "arey",
+      "unna",
+      "class",
+      "nahi",
+      "seri"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 406,
+    "sentence": "naan cheppanu pannuren kyun nahi class cheyyi irukku 😑",
+    "tokens": [
+      "naan",
+      "cheppanu",
+      "pannuren",
+      "kyun",
+      "nahi",
+      "class",
+      "cheyyi",
+      "irukku",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 407,
+    "sentence": "plan call mera today bolo meeting seri illa",
+    "tokens": [
+      "plan",
+      "call",
+      "mera",
+      "today",
+      "bolo",
+      "meeting",
+      "seri",
+      "illa"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 408,
+    "sentence": "cheyyi cheyyi ippudu ledu romba class",
+    "tokens": [
+      "cheyyi",
+      "cheyyi",
+      "ippudu",
+      "ledu",
+      "romba",
+      "class"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 409,
+    "sentence": "result avuthundi kal work plan jaldi nenu cheppanu hai",
+    "tokens": [
+      "result",
+      "avuthundi",
+      "kal",
+      "work",
+      "plan",
+      "jaldi",
+      "nenu",
+      "cheppanu",
+      "hai"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 410,
+    "sentence": "ippudu update class code avuthundi kal chala today",
+    "tokens": [
+      "ippudu",
+      "update",
+      "class",
+      "code",
+      "avuthundi",
+      "kal",
+      "chala",
+      "today"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 411,
+    "sentence": "idhu arey unna meeting venum kar",
+    "tokens": [
+      "idhu",
+      "arey",
+      "unna",
+      "meeting",
+      "venum",
+      "kar"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 412,
+    "sentence": "system nuvvu work pannuren pannuren task tum result hai nenu 🤦",
+    "tokens": [
+      "system",
+      "nuvvu",
+      "work",
+      "pannuren",
+      "pannuren",
+      "task",
+      "tum",
+      "result",
+      "hai",
+      "nenu",
+      "🤦"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 413,
+    "sentence": "ippudu irukku ledu nahi illa ledu call raha venum 😅",
+    "tokens": [
+      "ippudu",
+      "irukku",
+      "ledu",
+      "nahi",
+      "illa",
+      "ledu",
+      "call",
+      "raha",
+      "venum",
+      "😅"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 414,
+    "sentence": "nenu system bhai inka cheyyi dei cheyyi meeting task 😍",
+    "tokens": [
+      "nenu",
+      "system",
+      "bhai",
+      "inka",
+      "cheyyi",
+      "dei",
+      "cheyyi",
+      "meeting",
+      "task",
+      "😍"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "ta",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 415,
+    "sentence": "ippudu seri vastanu mera avuthundi dei irukku bolo 😑",
+    "tokens": [
+      "ippudu",
+      "seri",
+      "vastanu",
+      "mera",
+      "avuthundi",
+      "dei",
+      "irukku",
+      "bolo",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 416,
+    "sentence": "call hai cheppanu nenu mera project mera dei romba 😓",
+    "tokens": [
+      "call",
+      "hai",
+      "cheppanu",
+      "nenu",
+      "mera",
+      "project",
+      "mera",
+      "dei",
+      "romba",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 417,
+    "sentence": "naan nenu kyun nenu class nuvvu bolo raha nenu romba",
+    "tokens": [
+      "naan",
+      "nenu",
+      "kyun",
+      "nenu",
+      "class",
+      "nuvvu",
+      "bolo",
+      "raha",
+      "nenu",
+      "romba"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "hi",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 418,
+    "sentence": "undi task illa dei arey tum nahi task 🔥",
+    "tokens": [
+      "undi",
+      "task",
+      "illa",
+      "dei",
+      "arey",
+      "tum",
+      "nahi",
+      "task",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 419,
+    "sentence": "unna call kyun illa idhu arey idhu romba theek",
+    "tokens": [
+      "unna",
+      "call",
+      "kyun",
+      "illa",
+      "idhu",
+      "arey",
+      "idhu",
+      "romba",
+      "theek"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 420,
+    "sentence": "cheppanu avuthundi system bhai jaldi arey irukku",
+    "tokens": [
+      "cheppanu",
+      "avuthundi",
+      "system",
+      "bhai",
+      "jaldi",
+      "arey",
+      "irukku"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 421,
+    "sentence": "gaya vastanu vastanu meeting irukku idea irukku mera nahi 🔥",
+    "tokens": [
+      "gaya",
+      "vastanu",
+      "vastanu",
+      "meeting",
+      "irukku",
+      "idea",
+      "irukku",
+      "mera",
+      "nahi",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 422,
+    "sentence": "today illa seri chala arey today idhu",
+    "tokens": [
+      "today",
+      "illa",
+      "seri",
+      "chala",
+      "arey",
+      "today",
+      "idhu"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 423,
+    "sentence": "raha illa romba nenu idhu system nenu dei 😓",
+    "tokens": [
+      "raha",
+      "illa",
+      "romba",
+      "nenu",
+      "idhu",
+      "system",
+      "nenu",
+      "dei",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 424,
+    "sentence": "gaya today tum call hai meeting",
+    "tokens": [
+      "gaya",
+      "today",
+      "tum",
+      "call",
+      "hai",
+      "meeting"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 425,
+    "sentence": "class cheppanu project nenu chala idhu nuvvu",
+    "tokens": [
+      "class",
+      "cheppanu",
+      "project",
+      "nenu",
+      "chala",
+      "idhu",
+      "nuvvu"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "en",
+      "te",
+      "te",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 426,
+    "sentence": "jaldi mera nenu pannuren idhu today idhu mera nenu 🔥",
+    "tokens": [
+      "jaldi",
+      "mera",
+      "nenu",
+      "pannuren",
+      "idhu",
+      "today",
+      "idhu",
+      "mera",
+      "nenu",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 427,
+    "sentence": "kar seri bhai bug inka ippudu fix gaya",
+    "tokens": [
+      "kar",
+      "seri",
+      "bhai",
+      "bug",
+      "inka",
+      "ippudu",
+      "fix",
+      "gaya"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "te",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 428,
+    "sentence": "today hai kyun call work chesa ledu 🔥",
+    "tokens": [
+      "today",
+      "hai",
+      "kyun",
+      "call",
+      "work",
+      "chesa",
+      "ledu",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 429,
+    "sentence": "aaguthu arey vastanu meeting data today ippudu seri",
+    "tokens": [
+      "aaguthu",
+      "arey",
+      "vastanu",
+      "meeting",
+      "data",
+      "today",
+      "ippudu",
+      "seri"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "en",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 430,
+    "sentence": "class mera data today system call idea dei inka result 😅",
+    "tokens": [
+      "class",
+      "mera",
+      "data",
+      "today",
+      "system",
+      "call",
+      "idea",
+      "dei",
+      "inka",
+      "result",
+      "😅"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 431,
+    "sentence": "irukku raha romba idea ippudu today",
+    "tokens": [
+      "irukku",
+      "raha",
+      "romba",
+      "idea",
+      "ippudu",
+      "today"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 432,
+    "sentence": "code theek dei inka kyun ledu illa seri task tum",
+    "tokens": [
+      "code",
+      "theek",
+      "dei",
+      "inka",
+      "kyun",
+      "ledu",
+      "illa",
+      "seri",
+      "task",
+      "tum"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 433,
+    "sentence": "class mera venum romba illa system chala gaya cheyyi illa",
+    "tokens": [
+      "class",
+      "mera",
+      "venum",
+      "romba",
+      "illa",
+      "system",
+      "chala",
+      "gaya",
+      "cheyyi",
+      "illa"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 434,
+    "sentence": "jaldi mera idea meeting idea irukku today cheyyi 😓",
+    "tokens": [
+      "jaldi",
+      "mera",
+      "idea",
+      "meeting",
+      "idea",
+      "irukku",
+      "today",
+      "cheyyi",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 435,
+    "sentence": "seri naan project kal raha unna kal work illa",
+    "tokens": [
+      "seri",
+      "naan",
+      "project",
+      "kal",
+      "raha",
+      "unna",
+      "kal",
+      "work",
+      "illa"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 436,
+    "sentence": "illa bug mera aaguthu task vastanu undi 🔥",
+    "tokens": [
+      "illa",
+      "bug",
+      "mera",
+      "aaguthu",
+      "task",
+      "vastanu",
+      "undi",
+      "🔥"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 437,
+    "sentence": "bolo chala romba theek unna seri system 😑",
+    "tokens": [
+      "bolo",
+      "chala",
+      "romba",
+      "theek",
+      "unna",
+      "seri",
+      "system",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "te",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 438,
+    "sentence": "ippudu chesa romba undi call kar kar chesa chesa cheyyi",
+    "tokens": [
+      "ippudu",
+      "chesa",
+      "romba",
+      "undi",
+      "call",
+      "kar",
+      "kar",
+      "chesa",
+      "chesa",
+      "cheyyi"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 439,
+    "sentence": "romba call meeting kya mera class nahi arey meeting",
+    "tokens": [
+      "romba",
+      "call",
+      "meeting",
+      "kya",
+      "mera",
+      "class",
+      "nahi",
+      "arey",
+      "meeting"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 440,
+    "sentence": "mera data plan naan class pannuren pannuren 🤦",
+    "tokens": [
+      "mera",
+      "data",
+      "plan",
+      "naan",
+      "class",
+      "pannuren",
+      "pannuren",
+      "🤦"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 441,
+    "sentence": "vastanu nuvvu project mera kal unna plan unna idea",
+    "tokens": [
+      "vastanu",
+      "nuvvu",
+      "project",
+      "mera",
+      "kal",
+      "unna",
+      "plan",
+      "unna",
+      "idea"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "en",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 442,
+    "sentence": "chesa cheyyi kyun dei cheyyi illa chesa irukku irukku call 😂",
+    "tokens": [
+      "chesa",
+      "cheyyi",
+      "kyun",
+      "dei",
+      "cheyyi",
+      "illa",
+      "chesa",
+      "irukku",
+      "irukku",
+      "call",
+      "😂"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 443,
+    "sentence": "call bhai arey inka kyun class idhu work",
+    "tokens": [
+      "call",
+      "bhai",
+      "arey",
+      "inka",
+      "kyun",
+      "class",
+      "idhu",
+      "work"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 444,
+    "sentence": "ippudu bhai raha aaguthu inka naan project",
+    "tokens": [
+      "ippudu",
+      "bhai",
+      "raha",
+      "aaguthu",
+      "inka",
+      "naan",
+      "project"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 445,
+    "sentence": "undi mera today seri bolo bolo kal work vastanu unna",
+    "tokens": [
+      "undi",
+      "mera",
+      "today",
+      "seri",
+      "bolo",
+      "bolo",
+      "kal",
+      "work",
+      "vastanu",
+      "unna"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 446,
+    "sentence": "illa mera plan kyun kya meeting dei nahi gaya",
+    "tokens": [
+      "illa",
+      "mera",
+      "plan",
+      "kyun",
+      "kya",
+      "meeting",
+      "dei",
+      "nahi",
+      "gaya"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 447,
+    "sentence": "irukku inka hai romba aaguthu fix seri idhu fix",
+    "tokens": [
+      "irukku",
+      "inka",
+      "hai",
+      "romba",
+      "aaguthu",
+      "fix",
+      "seri",
+      "idhu",
+      "fix"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 448,
+    "sentence": "nenu tum meeting illa nenu idhu kal gaya gaya",
+    "tokens": [
+      "nenu",
+      "tum",
+      "meeting",
+      "illa",
+      "nenu",
+      "idhu",
+      "kal",
+      "gaya",
+      "gaya"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "hi"
+    ]
+  },
+  {
+    "id": 449,
+    "sentence": "kya avuthundi update jaldi jaldi meeting chesa task",
+    "tokens": [
+      "kya",
+      "avuthundi",
+      "update",
+      "jaldi",
+      "jaldi",
+      "meeting",
+      "chesa",
+      "task"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "en",
+      "hi",
+      "hi",
+      "en",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 450,
+    "sentence": "pannuren avuthundi kya plan task undi 😓",
+    "tokens": [
+      "pannuren",
+      "avuthundi",
+      "kya",
+      "plan",
+      "task",
+      "undi",
+      "😓"
+    ],
+    "labels": [
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 451,
+    "sentence": "cheyyi theek kyun raha theek nuvvu cheyyi task venum",
+    "tokens": [
+      "cheyyi",
+      "theek",
+      "kyun",
+      "raha",
+      "theek",
+      "nuvvu",
+      "cheyyi",
+      "task",
+      "venum"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "hi",
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 452,
+    "sentence": "arey plan irukku seri chesa irukku seri dei",
+    "tokens": [
+      "arey",
+      "plan",
+      "irukku",
+      "seri",
+      "chesa",
+      "irukku",
+      "seri",
+      "dei"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "te",
+      "ta",
+      "ta",
+      "ta"
+    ]
+  },
+  {
+    "id": 453,
+    "sentence": "nuvvu ippudu cheppanu update dei system 🔥",
+    "tokens": [
+      "nuvvu",
+      "ippudu",
+      "cheppanu",
+      "update",
+      "dei",
+      "system",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 454,
+    "sentence": "kal nenu bolo inka aaguthu arey work undi fix bug 🔥",
+    "tokens": [
+      "kal",
+      "nenu",
+      "bolo",
+      "inka",
+      "aaguthu",
+      "arey",
+      "work",
+      "undi",
+      "fix",
+      "bug",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 455,
+    "sentence": "kal fix cheppanu illa aaguthu gaya nenu jaldi bug tum",
+    "tokens": [
+      "kal",
+      "fix",
+      "cheppanu",
+      "illa",
+      "aaguthu",
+      "gaya",
+      "nenu",
+      "jaldi",
+      "bug",
+      "tum"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "hi",
+      "te",
+      "hi",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 456,
+    "sentence": "avuthundi update naan bug bhai dei fix illa avuthundi 😑",
+    "tokens": [
+      "avuthundi",
+      "update",
+      "naan",
+      "bug",
+      "bhai",
+      "dei",
+      "fix",
+      "illa",
+      "avuthundi",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 457,
+    "sentence": "task raha call data ledu dei system",
+    "tokens": [
+      "task",
+      "raha",
+      "call",
+      "data",
+      "ledu",
+      "dei",
+      "system"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 458,
+    "sentence": "system bug idhu ledu chala idhu 😓",
+    "tokens": [
+      "system",
+      "bug",
+      "idhu",
+      "ledu",
+      "chala",
+      "idhu",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 459,
+    "sentence": "work romba work bug cheyyi unna fix kar",
+    "tokens": [
+      "work",
+      "romba",
+      "work",
+      "bug",
+      "cheyyi",
+      "unna",
+      "fix",
+      "kar"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "en",
+      "te",
+      "te",
+      "en",
+      "hi"
+    ]
+  },
+  {
+    "id": 460,
+    "sentence": "class ledu mera illa venum ippudu chesa ledu dei",
+    "tokens": [
+      "class",
+      "ledu",
+      "mera",
+      "illa",
+      "venum",
+      "ippudu",
+      "chesa",
+      "ledu",
+      "dei"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "te",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 461,
+    "sentence": "romba hai code nenu system hai undi call today 🤦",
+    "tokens": [
+      "romba",
+      "hai",
+      "code",
+      "nenu",
+      "system",
+      "hai",
+      "undi",
+      "call",
+      "today",
+      "🤦"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 462,
+    "sentence": "bug vastanu naan dei aaguthu kya idea",
+    "tokens": [
+      "bug",
+      "vastanu",
+      "naan",
+      "dei",
+      "aaguthu",
+      "kya",
+      "idea"
+    ],
+    "labels": [
+      "en",
+      "te",
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 463,
+    "sentence": "aaguthu raha naan fix naan pannuren raha",
+    "tokens": [
+      "aaguthu",
+      "raha",
+      "naan",
+      "fix",
+      "naan",
+      "pannuren",
+      "raha"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 464,
+    "sentence": "mera pannuren undi raha romba aaguthu cheppanu result arey venum",
+    "tokens": [
+      "mera",
+      "pannuren",
+      "undi",
+      "raha",
+      "romba",
+      "aaguthu",
+      "cheppanu",
+      "result",
+      "arey",
+      "venum"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "te",
+      "en",
+      "hi",
+      "ta"
+    ]
+  },
+  {
+    "id": 465,
+    "sentence": "cheppanu idhu unna raha update undi 🔥",
+    "tokens": [
+      "cheppanu",
+      "idhu",
+      "unna",
+      "raha",
+      "update",
+      "undi",
+      "🔥"
+    ],
+    "labels": [
+      "te",
+      "ta",
+      "te",
+      "hi",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 466,
+    "sentence": "jaldi naan arey jaldi call pannuren romba 😑",
+    "tokens": [
+      "jaldi",
+      "naan",
+      "arey",
+      "jaldi",
+      "call",
+      "pannuren",
+      "romba",
+      "😑"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "hi",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 467,
+    "sentence": "result theek pannuren avuthundi kya dei pannuren bolo",
+    "tokens": [
+      "result",
+      "theek",
+      "pannuren",
+      "avuthundi",
+      "kya",
+      "dei",
+      "pannuren",
+      "bolo"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "hi",
+      "ta",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 468,
+    "sentence": "vastanu undi result dei result bug",
+    "tokens": [
+      "vastanu",
+      "undi",
+      "result",
+      "dei",
+      "result",
+      "bug"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "en"
+    ]
+  },
+  {
+    "id": 469,
+    "sentence": "avuthundi gaya project irukku romba gaya class mera avuthundi inka",
+    "tokens": [
+      "avuthundi",
+      "gaya",
+      "project",
+      "irukku",
+      "romba",
+      "gaya",
+      "class",
+      "mera",
+      "avuthundi",
+      "inka"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 470,
+    "sentence": "ippudu bolo today dei chesa meeting dei vastanu 😓",
+    "tokens": [
+      "ippudu",
+      "bolo",
+      "today",
+      "dei",
+      "chesa",
+      "meeting",
+      "dei",
+      "vastanu",
+      "😓"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "ta",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 471,
+    "sentence": "seri today illa tum hai cheyyi",
+    "tokens": [
+      "seri",
+      "today",
+      "illa",
+      "tum",
+      "hai",
+      "cheyyi"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 472,
+    "sentence": "chala gaya data arey fix idhu aaguthu chesa",
+    "tokens": [
+      "chala",
+      "gaya",
+      "data",
+      "arey",
+      "fix",
+      "idhu",
+      "aaguthu",
+      "chesa"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "ta",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 473,
+    "sentence": "seri jaldi arey gaya irukku undi avuthundi",
+    "tokens": [
+      "seri",
+      "jaldi",
+      "arey",
+      "gaya",
+      "irukku",
+      "undi",
+      "avuthundi"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "te"
+    ]
+  },
+  {
+    "id": 474,
+    "sentence": "vastanu gaya inka avuthundi project bhai chesa",
+    "tokens": [
+      "vastanu",
+      "gaya",
+      "inka",
+      "avuthundi",
+      "project",
+      "bhai",
+      "chesa"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "te",
+      "en",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 475,
+    "sentence": "data tum nuvvu hai unna cheppanu 🔥",
+    "tokens": [
+      "data",
+      "tum",
+      "nuvvu",
+      "hai",
+      "unna",
+      "cheppanu",
+      "🔥"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 476,
+    "sentence": "illa arey idea raha idea today dei idhu inka",
+    "tokens": [
+      "illa",
+      "arey",
+      "idea",
+      "raha",
+      "idea",
+      "today",
+      "dei",
+      "idhu",
+      "inka"
+    ],
+    "labels": [
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "en",
+      "en",
+      "ta",
+      "ta",
+      "te"
+    ]
+  },
+  {
+    "id": 477,
+    "sentence": "chala result update gaya chala inka hai data",
+    "tokens": [
+      "chala",
+      "result",
+      "update",
+      "gaya",
+      "chala",
+      "inka",
+      "hai",
+      "data"
+    ],
+    "labels": [
+      "te",
+      "en",
+      "en",
+      "hi",
+      "te",
+      "te",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 478,
+    "sentence": "system system ledu undi kyun chesa illa kyun",
+    "tokens": [
+      "system",
+      "system",
+      "ledu",
+      "undi",
+      "kyun",
+      "chesa",
+      "illa",
+      "kyun"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "ta",
+      "hi"
+    ]
+  },
+  {
+    "id": 479,
+    "sentence": "kya nenu dei nenu naan class unna bolo class illa",
+    "tokens": [
+      "kya",
+      "nenu",
+      "dei",
+      "nenu",
+      "naan",
+      "class",
+      "unna",
+      "bolo",
+      "class",
+      "illa"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "te",
+      "ta",
+      "en",
+      "te",
+      "hi",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 480,
+    "sentence": "inka tum unna work seri ippudu chala theek",
+    "tokens": [
+      "inka",
+      "tum",
+      "unna",
+      "work",
+      "seri",
+      "ippudu",
+      "chala",
+      "theek"
+    ],
+    "labels": [
+      "te",
+      "hi",
+      "te",
+      "en",
+      "ta",
+      "te",
+      "te",
+      "hi"
+    ]
+  },
+  {
+    "id": 481,
+    "sentence": "venum bug raha illa irukku kar illa naan result 😑",
+    "tokens": [
+      "venum",
+      "bug",
+      "raha",
+      "illa",
+      "irukku",
+      "kar",
+      "illa",
+      "naan",
+      "result",
+      "😑"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "ta",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 482,
+    "sentence": "code project nahi kar irukku task",
+    "tokens": [
+      "code",
+      "project",
+      "nahi",
+      "kar",
+      "irukku",
+      "task"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 483,
+    "sentence": "illa today illa irukku bhai code ledu jaldi ledu idhu",
+    "tokens": [
+      "illa",
+      "today",
+      "illa",
+      "irukku",
+      "bhai",
+      "code",
+      "ledu",
+      "jaldi",
+      "ledu",
+      "idhu"
+    ],
+    "labels": [
+      "ta",
+      "en",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "te",
+      "ta"
+    ]
+  },
+  {
+    "id": 484,
+    "sentence": "call bolo code code avuthundi cheppanu result seri idea chala 😍",
+    "tokens": [
+      "call",
+      "bolo",
+      "code",
+      "code",
+      "avuthundi",
+      "cheppanu",
+      "result",
+      "seri",
+      "idea",
+      "chala",
+      "😍"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "en",
+      "te",
+      "emoji"
+    ]
+  },
+  {
+    "id": 485,
+    "sentence": "plan bolo nuvvu illa venum class romba",
+    "tokens": [
+      "plan",
+      "bolo",
+      "nuvvu",
+      "illa",
+      "venum",
+      "class",
+      "romba"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "ta",
+      "ta",
+      "en",
+      "ta"
+    ]
+  },
+  {
+    "id": 486,
+    "sentence": "kyun hai arey work project jaldi kya gaya avuthundi",
+    "tokens": [
+      "kyun",
+      "hai",
+      "arey",
+      "work",
+      "project",
+      "jaldi",
+      "kya",
+      "gaya",
+      "avuthundi"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "hi",
+      "hi",
+      "te"
+    ]
+  },
+  {
+    "id": 487,
+    "sentence": "tum jaldi irukku naan theek seri theek today bug 😂",
+    "tokens": [
+      "tum",
+      "jaldi",
+      "irukku",
+      "naan",
+      "theek",
+      "seri",
+      "theek",
+      "today",
+      "bug",
+      "😂"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "ta",
+      "hi",
+      "ta",
+      "hi",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 488,
+    "sentence": "pannuren dei naan nahi meeting ledu kal pannuren update",
+    "tokens": [
+      "pannuren",
+      "dei",
+      "naan",
+      "nahi",
+      "meeting",
+      "ledu",
+      "kal",
+      "pannuren",
+      "update"
+    ],
+    "labels": [
+      "ta",
+      "ta",
+      "ta",
+      "hi",
+      "en",
+      "te",
+      "hi",
+      "ta",
+      "en"
+    ]
+  },
+  {
+    "id": 489,
+    "sentence": "code illa kya bug tum hai 😓",
+    "tokens": [
+      "code",
+      "illa",
+      "kya",
+      "bug",
+      "tum",
+      "hai",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "hi",
+      "en",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 490,
+    "sentence": "code arey ippudu irukku theek irukku 😓",
+    "tokens": [
+      "code",
+      "arey",
+      "ippudu",
+      "irukku",
+      "theek",
+      "irukku",
+      "😓"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 491,
+    "sentence": "gaya mera ledu chala plan romba kyun gaya kal 😅",
+    "tokens": [
+      "gaya",
+      "mera",
+      "ledu",
+      "chala",
+      "plan",
+      "romba",
+      "kyun",
+      "gaya",
+      "kal",
+      "😅"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "te",
+      "te",
+      "en",
+      "ta",
+      "hi",
+      "hi",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 492,
+    "sentence": "bhai kya venum unna avuthundi class 😓",
+    "tokens": [
+      "bhai",
+      "kya",
+      "venum",
+      "unna",
+      "avuthundi",
+      "class",
+      "😓"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 493,
+    "sentence": "theek system nuvvu avuthundi nahi vastanu nahi nenu class result 🤦",
+    "tokens": [
+      "theek",
+      "system",
+      "nuvvu",
+      "avuthundi",
+      "nahi",
+      "vastanu",
+      "nahi",
+      "nenu",
+      "class",
+      "result",
+      "🤦"
+    ],
+    "labels": [
+      "hi",
+      "en",
+      "te",
+      "te",
+      "hi",
+      "te",
+      "hi",
+      "te",
+      "en",
+      "en",
+      "emoji"
+    ]
+  },
+  {
+    "id": 494,
+    "sentence": "jaldi theek call call cheppanu call theek 🔥",
+    "tokens": [
+      "jaldi",
+      "theek",
+      "call",
+      "call",
+      "cheppanu",
+      "call",
+      "theek",
+      "🔥"
+    ],
+    "labels": [
+      "hi",
+      "hi",
+      "en",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "emoji"
+    ]
+  },
+  {
+    "id": 495,
+    "sentence": "class code idea avuthundi work gaya project",
+    "tokens": [
+      "class",
+      "code",
+      "idea",
+      "avuthundi",
+      "work",
+      "gaya",
+      "project"
+    ],
+    "labels": [
+      "en",
+      "en",
+      "en",
+      "te",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 496,
+    "sentence": "kyun venum bug idhu unna class",
+    "tokens": [
+      "kyun",
+      "venum",
+      "bug",
+      "idhu",
+      "unna",
+      "class"
+    ],
+    "labels": [
+      "hi",
+      "ta",
+      "en",
+      "ta",
+      "te",
+      "en"
+    ]
+  },
+  {
+    "id": 497,
+    "sentence": "bolo chala idhu tum tum illa inka inka pannuren 😍",
+    "tokens": [
+      "bolo",
+      "chala",
+      "idhu",
+      "tum",
+      "tum",
+      "illa",
+      "inka",
+      "inka",
+      "pannuren",
+      "😍"
+    ],
+    "labels": [
+      "hi",
+      "te",
+      "ta",
+      "hi",
+      "hi",
+      "ta",
+      "te",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 498,
+    "sentence": "bug venum project gaya hai cheyyi pannuren 😑",
+    "tokens": [
+      "bug",
+      "venum",
+      "project",
+      "gaya",
+      "hai",
+      "cheyyi",
+      "pannuren",
+      "😑"
+    ],
+    "labels": [
+      "en",
+      "ta",
+      "en",
+      "hi",
+      "hi",
+      "te",
+      "ta",
+      "emoji"
+    ]
+  },
+  {
+    "id": 499,
+    "sentence": "idea raha code bug gaya illa idea jaldi update",
+    "tokens": [
+      "idea",
+      "raha",
+      "code",
+      "bug",
+      "gaya",
+      "illa",
+      "idea",
+      "jaldi",
+      "update"
+    ],
+    "labels": [
+      "en",
+      "hi",
+      "en",
+      "en",
+      "hi",
+      "ta",
+      "en",
+      "hi",
+      "en"
+    ]
+  },
+  {
+    "id": 500,
+    "sentence": "unna ledu project project task seri code call 😑",
+    "tokens": [
+      "unna",
+      "ledu",
+      "project",
+      "project",
+      "task",
+      "seri",
+      "code",
+      "call",
+      "😑"
+    ],
+    "labels": [
+      "te",
+      "te",
+      "en",
+      "en",
+      "en",
+      "ta",
+      "en",
+      "en",
+      "emoji"
+    ]
+  }
+]
