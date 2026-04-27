@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Code-Mixed Language Detection</title>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to right, #667eea, #764ba2);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            margin-top: 70px;
+        }
+
+        h1 {
+            font-size: 38px;
+            margin-bottom: 10px;
+        }
+
+        p.subtitle {
+            font-size: 14px;
+            opacity: 0.8;
+            margin-bottom: 25px;
+        }
+
+        input {
+            width: 380px;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            font-size: 16px;
+            outline: none;
+        }
+
+        button {
+            margin-top: 15px;
+            padding: 10px 25px;
+            border-radius: 8px;
+            border: none;
+            background-color: #ffcc70;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #ffb347;
+        }
+
+        .card {
+            background: white;
+            color: black;
+            width: 420px;
+            margin: 30px auto;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+
+        .input-preview {
+            font-size: 14px;
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .word {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .tag {
+            padding: 3px 10px;
+            border-radius: 6px;
+            color: white;
+            font-size: 12px;
+        }
+
+        .en { background-color: #3498db; }
+        .te { background-color: #2ecc71; }
+        .hi { background-color: #e74c3c; }
+        .ta { background-color: #9b59b6; }
+        .other { background-color: gray; }
+
+        .result {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        .again {
+            margin-top: 15px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🌍 Code-Mixed Language Detection</h1>
+    <p class="subtitle">Detect languages inside mixed sentences (English, Telugu, Hindi, Tamil)</p>
+
+    <!-- FORM -->
+    <form method="POST">
+        <input type="text" 
+               name="sentence" 
+               value="{{ sentence }}" 
+               placeholder="Type your sentence here..." 
+               required>
+        <br>
+        <button type="submit">Analyze</button>
+    </form>
+
+    <!-- RESULT CARD -->
+    {% if result %}
+    <div class="card">
+
+        <!-- SHOW INPUT AGAIN -->
+        <div class="input-preview">
+            <strong>Input:</strong> "{{ sentence }}"
+        </div>
+
+        <h3>🔍 Word-Level Detection</h3>
+
+        {% for word, lang in result %}
+            <div class="word">
+                <span>{{ word }}</span>
+                <span class="tag {{ lang }}">{{ lang }}</span>
+            </div>
+        {% endfor %}
+
+        <div class="result">
+            <p>⚡ Code Mixed: {{ code_mixed }}</p>
+            <p>🏆 Dominant Language: {{ dominant }}</p>
+        </div>
+
+        <!-- TRY AGAIN BUTTON -->
+        <div class="again">
+            <form method="GET">
+                <button type="submit">🔁 Analyze Another Sentence</button>
+            </form>
+        </div>
+
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
